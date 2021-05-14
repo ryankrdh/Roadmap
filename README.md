@@ -23,53 +23,100 @@ NoSQL(MongoDB)(+Caching), Managing hosting: FUTURE
 Work Log:
 
 Week of Apr 5th 2021: Python 3 BootCamp
+
 Week of Apr 12th 2021: Python 3 BootCamp
+
 Week of Apr 19th 2021: Python 3 BootCamp
+
 Week of Apr 26th 2021: Python 3 BootCamp
 
+
 Week of May 10th 2021: Python 3 BootCamp, github lessons/practice, start github and start first project.
+
 Week of May 17th 2021: 
+
 Week of May 24th 2021: 
+
 Week of May 31th 2021: 
 
+
 Week of June 7th 2021: 
+
 Week of June 14th 2021: 
+
 Week of June 21th 2021: 
+
 Week of June 28th 2021: 
 
+
+
 Week of July 5th 2021: 
+
 Week of July 12th 2021: 
+
 Week of July 19th 2021: 
+
 Week of July 26th 2021: 
 
+
+
 Week of Aug 2nd 2021: 
+
 Week of Aug 9th 2021: 
+
 Week of Aug 16th 2021: 
+
 Week of Aug 23rd 2021:
+
 Week of Aug 30th 2021: 
 
+
+
 Week of Sept 6th 2021: 
+
 Week of Sept 13th 2021: 
+
 Week of Sept 20th 2021: 
+
 Week of Sept 27th 2021: 
 
+
+
 Week of Oct 4th 2021: 
+
 Week of Oct 11th 2021: 
+
 Week of Oct 18th 2021: 
+
 Week of Oct 25th 2021: 
 
+
+
 Week of Nov 1st 2021: 
+
 Week of Nov 8th 2021: 
+
 Week of Nov 15th 2021: 
+
 Week of Nov 22th 2021:
+
 Week of Nov 29th 2021:
 
+
+
 Week of Dec 6th 2021: 
+
 Week of Dec 13th 2021: 
+
 Week of Dec 20th 2021: 
+
 Week of Dec 27th 2021: 
 
+
+
 2022: ...
+
+
 
 
 You need a reality check! Reality starts from the inside and makes its way out.
