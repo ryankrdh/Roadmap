@@ -31,7 +31,7 @@ Week of Apr 19th 2021: Python 3 BootCamp
 Week of Apr 26th 2021: Python 3 BootCamp
 
 
-Week of May 10th 2021: Python 3 BootCamp, github(Introduction Sequence, Ramping Up), Pycharm tutorial + debugging, start github and start first project.
+Week of May 10th 2021: Python 3 BootCamp, github(Introduction Sequence, Ramping Up), Pycharm tutorial + debugging, start github and start first project. Hackerrank challenges.
 
 Week of May 17th 2021: Python 3 BootCamp, github(Moving Work Around, A Mixed Bag, Advanced Topics)
 
