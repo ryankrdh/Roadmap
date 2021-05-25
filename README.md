@@ -35,7 +35,7 @@ Week of May 10th 2021: Python 3 BootCamp, github (Introduction Sequence, Ramping
 
 Week of May 17th 2021: Python 3 BootCamp, Milestone 1 project, hackerrank/edabit challenges. 
 
-Week of May 24th 2021: Python 3 BootCamp, github (Push & Pull -- Git Remotes, To Origin And Beyond -- Advanced Git Remotes)
+Week of May 24th 2021: Python 3 BootCampn(OOP), Finish Milestone 1 project
 
 Week of May 31th 2021: 
 
