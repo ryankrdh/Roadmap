@@ -2,7 +2,7 @@
 
 Road Map:
 
-Javascript and Json fundamentals: OCT 2020-MAR 2021
+HTML, CSS, Javascript and Json fundamentals: JAN 2021-MAR 2021
 
 Work on Python (+pip), Github: APRIL - MAY 2021
 
@@ -21,21 +21,22 @@ NoSQL(MongoDB)(+Caching), Managing hosting: FUTURE
 
 
 Work Log:
+JAN 2021 - MAR 2021: HTML, CSS, JAVASCRIPT FUNDAMENTALS PART 1 AND 2, JSON FUNDAMENTALS. 
 
-Week of Apr 5th 2021: Python 3 BootCamp
+Week of Apr 5th 2021: Python 3 BootCamp(Python Object and Data Structure Basics)
 
-Week of Apr 12th 2021: Python 3 BootCamp
+Week of Apr 12th 2021: Python 3 BootCamp(Python Object and Data Structure Basics, Python Comparison Operators)
 
-Week of Apr 19th 2021: Python 3 BootCamp
+Week of Apr 19th 2021: Python 3 BootCamp(Python Statements, Methods and Functions)
 
-Week of Apr 26th 2021: Python 3 BootCamp
+Week of Apr 26th 2021: Python 3 BootCamp(Methods and Functions)
 
 
 Week of May 10th 2021: Python 3 BootCamp, github (Introduction Sequence, Ramping Up), Pycharm tutorial + debugging, start github and start first project. Hackerrank/edabit challenges.
 
 Week of May 17th 2021: Python 3 BootCamp, Milestone 1 project, hackerrank/edabit challenges. 
 
-Week of May 24th 2021: Python 3 BootCampn(OOP, Modules and Packages, Errors and Exception Handling), Finish Milestone 1 project, MileStone 2 project
+Week of May 24th 2021: Python 3 BootCampn(OOP, Modules and Packages, Errors and Exception Handling, Python Decorators), Finish Milestone 1 project, MileStone 2 project, Milestone 3 project. Start personal project
 
 Week of May 31th 2021: 
 
