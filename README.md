@@ -36,7 +36,7 @@ Week of May 10th 2021: Python 3 BootCamp, github (Introduction Sequence, Ramping
 
 Week of May 17th 2021: Python 3 BootCamp, Milestone 1 project, hackerrank/edabit challenges, Milestone 2 project
 
-Week of May 24th 2021: Python 3 BootCampn(OOP, Modules and Packages, Errors and Exception Handling, Python Decorators, python generators, advanced python modules, webscraping), Milestone 1 project, MileStone 2 project, Milestone 3 project, personal project.
+Week of May 24th 2021: Python 3 BootCampn(OOP, Modules and Packages, Errors and Exception Handling, Python Decorators, python generators, advanced python modules, webscraping, debugger), Milestone 1 project, MileStone 2 project, Milestone 3 project, personal project.
 
 Week of May 31th 2021: 
 
