@@ -16,7 +16,7 @@ Practical training, python libraries, set up web server, projects: SEP-OCT 2021
 
 ** Interviews **
 
-NoSQL(MongoDB)(+Caching), Managing hosting: FUTURE
+NoSQL(MongoDB)(+Caching), Managing hosting, Best Coding Standards: FUTURE
 
 
 
