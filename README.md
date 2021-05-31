@@ -23,22 +23,22 @@ NoSQL(MongoDB)(+Caching), Managing hosting: FUTURE
 Work Log:
 JAN 2021 - MAR 2021: HTML, CSS, JAVASCRIPT FUNDAMENTALS PART 1 AND 2, JSON FUNDAMENTALS. 
 
-Week of Apr 5th 2021: Python 3 BootCamp(Python Object and Data Structure Basics)
+Week of Apr 5th 2021: Python 3 Bootcamp(Python Object and Data Structure Basics)
 
-Week of Apr 12th 2021: Python 3 BootCamp(Python Object and Data Structure Basics, Python Comparison Operators)
+Week of Apr 12th 2021: Python 3 Bootcamp(Python Object and Data Structure Basics, Python Comparison Operators)
 
-Week of Apr 19th 2021: Python 3 BootCamp(Python Statements, Methods and Functions)
+Week of Apr 19th 2021: Python 3 Bootcamp(Python Statements, Methods and Functions)
 
-Week of Apr 26th 2021: Python 3 BootCamp(Methods and Functions)
+Week of Apr 26th 2021: Python 3 Bootcamp(Methods and Functions)
 
 
-Week of May 10th 2021: Python 3 BootCamp, github (Introduction Sequence, Ramping Up), Pycharm tutorial + debugging, start github and Milestone 1 project. Hackerrank/edabit challenges.
+Week of May 10th 2021: Python 3 Bootcamp, github (Introduction Sequence, Ramping Up), Pycharm tutorial + debugging, start github and Milestone 1 project. Hackerrank/edabit challenges.
 
-Week of May 17th 2021: Python 3 BootCamp, Milestone 1 project, hackerrank/edabit challenges, Milestone 2 project
+Week of May 17th 2021: Python 3 Bootcamp, Milestone 1 project, hackerrank/edabit challenges, Milestone 2 project
 
-Week of May 24th 2021: Python 3 BootCampn(OOP, Modules and Packages, Errors and Exception Handling, Python Decorators, python generators, advanced python modules, webscraping, debugger), Milestone 1 project, MileStone 2 project, Milestone 3 project, personal project.
+Week of May 24th 2021: Python 3 Bootcamp(OOP, Modules and Packages, Errors and Exception Handling, Python Decorators, python generators, advanced python modules, webscraping, debugger), Milestone 1 project, MileStone 2 project, Milestone 3 project, personal project.
 
-Week of May 31th 2021: 
+Week of May 31th 2021: Python 3 Bootcamp(webscraping, debugger),
 
 
 Week of June 7th 2021: 
@@ -120,13 +120,6 @@ Week of Dec 27th 2021:
 
 
 
-You need a reality check! Reality starts from the inside and makes its way out.
-
-Push yourself because no-one else is going to do it for you.
-
-What comes easy won’t last, what lasts won’t come easy.
-
-It always seems impossible until it’s done
 
 Don’t limit your challenges, challenge your limits!
 
