@@ -8,7 +8,7 @@ Work on Python (+pip), Github: APRIL - MAY 2021
 
 Data Structures and Algorithms, VCS, unit testing: JUNE 2021
 
-MySQL (+MySQLdb): JULY 2021
+MySQLPostgresql (+MySQLdb): JULY 2021
 
 DJANGO: AUG 2021
 
