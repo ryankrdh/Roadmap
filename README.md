@@ -10,7 +10,7 @@ Data Structures and Algorithms, VCS, unit testing: JUNE 2021
 
 MySQL (+MySQLdb): JULY 2021
 
-REST API and FLASK: AUG 2021
+DJANGO: AUG 2021
 
 Practical training, python libraries, set up web server, projects: SEP-OCT 2021
 
