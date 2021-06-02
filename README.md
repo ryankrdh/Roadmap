@@ -8,9 +8,10 @@ Work on Python (+pip), Github: APRIL - MAY 2021
 
 MySQLPostgresql (+MySQLdb): JUNE 2021
 
-Data Structures and Algorithms, VCS, unit testing: JULY 2021
+REST API + DJANGO: JULY 2021
 
-REST API + DJANGO: AUG 2021
+Data Structures and Algorithms, VCS, unit testing: AUG 2021
+
 
 Practical training, python libraries, set up web server, projects: SEP-OCT 2021
 
@@ -38,7 +39,7 @@ Week of May 17th 2021: Python 3 Bootcamp, Milestone 1 project, hackerrank/edabit
 
 Week of May 24th 2021: Python 3 Bootcamp(OOP, Modules and Packages, Errors and Exception Handling, Python Decorators, python generators, advanced python modules, webscraping, debugger), Milestone 1 project, MileStone 2 project, Milestone 3 project, personal project.
 
-Week of May 31th 2021: Python 3 Bootcamp(webscraping, debugger, working with images with python),
+Week of May 31th 2021: Python 3 Bootcamp(webscraping, debugger, working with images with python, PDFs and Spreadsheets,),
 
 
 Week of June 7th 2021: 
