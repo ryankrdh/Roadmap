@@ -39,7 +39,7 @@ Week of May 17th 2021: Python 3 Bootcamp, Milestone 1 project, hackerrank/edabit
 
 Week of May 24th 2021: Python 3 Bootcamp(OOP, Modules and Packages, Errors and Exception Handling, Python Decorators, python generators, advanced python modules, webscraping, debugger), Milestone 1 project, MileStone 2 project, Milestone 3 project, Uploaded JS personal project.
 
-Week of May 31th 2021: Python 3 Bootcamp(webscraping, debugger, working with images with python, PDFs and Spreadsheets, emails with python, advanced python objects and data structures), final capstone project ideas
+Week of May 31th 2021: Python 3 Bootcamp(webscraping, debugger, working with images with python, PDFs and Spreadsheets, emails with python, advanced python objects and data structures, GUI), final capstone project ideas
 
 
 Week of June 7th 2021: 
