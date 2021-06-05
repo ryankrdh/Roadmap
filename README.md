@@ -6,18 +6,17 @@ HTML, CSS, Javascript and Json fundamentals: JAN 2021-MAR 2021
 
 Work on Python (+pip), Github: APRIL - MAY 2021
 
-MySQLPostgresql (+MySQLdb): JUNE 2021
+Postgresql (+MySQLdb): JUNE 2021
 
 REST API + DJANGO: JULY 2021
 
 Data Structures and Algorithms, VCS, unit testing: AUG 2021
 
-
 Practical training, python libraries, set up web server, projects: SEP-OCT 2021
 
 ** Interviews **
 
-NoSQL(MongoDB)(+Caching), Managing hosting, Best Coding Standards: FUTURE
+NoSQL(MongoDB)(+Caching), Managing hosting, Best Coding Standards, GUI (Tkinter): FUTURE
 
 
 
@@ -39,7 +38,7 @@ Week of May 17th 2021: Python 3 Bootcamp, Milestone 1 project, hackerrank/edabit
 
 Week of May 24th 2021: Python 3 Bootcamp(OOP, Modules and Packages, Errors and Exception Handling, Python Decorators, python generators, advanced python modules, webscraping, debugger), Milestone 1 project, MileStone 2 project, Milestone 3 project, Uploaded JS personal project.
 
-Week of May 31th 2021: Python 3 Bootcamp(webscraping, debugger, working with images with python, PDFs and Spreadsheets, emails with python, advanced python objects and data structures, GUI), final capstone project ideas
+Week of May 31th 2021: Python 3 Bootcamp(webscraping, debugger, working with images with python, PDFs and Spreadsheets, emails with python, advanced python objects and data structures), explore final capstone project ideas. PostgreSQL (Programming journal that uses SQLite)
 
 
 Week of June 7th 2021: 
