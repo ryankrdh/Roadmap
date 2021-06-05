@@ -20,7 +20,8 @@ NoSQL(MongoDB)(+Caching), Managing hosting, Best Coding Standards, GUI (Tkinter)
 
 
 
-Work Log:
+## Programming Journal
+
 JAN 2021 - MAR 2021: HTML, CSS, JAVASCRIPT FUNDAMENTALS PART 1 AND 2, JSON FUNDAMENTALS. 
 
 Week of Apr 5th 2021: Python 3 Bootcamp(Python Object and Data Structure Basics)
