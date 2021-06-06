@@ -22,7 +22,7 @@ NoSQL(MongoDB)(+Caching), Managing hosting, Best Coding Standards, GUI (Tkinter)
 
 ## Programming Journal
 
-JAN 2021 - MAR 2021: HTML, CSS, JAVASCRIPT FUNDAMENTALS PART 1 AND 2, JSON FUNDAMENTALS. 
+JAN 2021 - MAR 2021: HTML, CSS, JAVASCRIPT FUNDAMENTALS PART 1 AND 2, JSON FUNDAMENTALS. Two personal projects finished. Not uploaded to github yet.
 
 Week of Apr 5th 2021: Python 3 Bootcamp(Python Object and Data Structure Basics)
 
@@ -39,8 +39,7 @@ Week of May 17th 2021: Python 3 Bootcamp, Milestone 1 project, hackerrank/edabit
 
 Week of May 24th 2021: Python 3 Bootcamp(OOP, Modules and Packages, Errors and Exception Handling, Python Decorators, python generators, advanced python modules, webscraping, debugger), Milestone 1 project, MileStone 2 project, Milestone 3 project, Uploaded JS personal project.
 
-Week of May 31th 2021: Python 3 Bootcamp(webscraping, debugger, working with images with python, PDFs and Spreadsheets, emails with python, advanced python objects and data structures), explore final capstone project ideas. PostgreSQL (Programming journal that uses SQLite)
-
+Week of May 31th 2021: Python 3 Bootcamp(webscraping, debugger, working with images with python, PDFs and Spreadsheets, emails with python, advanced python objects and data structures), explore final capstone project ideas. PostgreSQL (Programming journal that uses SQLite), personal project using javascript added to github.
 
 Week of June 7th 2021: 
 
