@@ -41,7 +41,7 @@ Week of May 24th 2021: Python 3 Bootcamp(OOP, Modules and Packages, Errors and E
 
 Week of May 31th 2021: Python 3 Bootcamp(webscraping, debugger, working with images with python, PDFs and Spreadsheets, emails with python, advanced python objects and data structures), explore final capstone project ideas. PostgreSQL (Programming journal that uses SQLite), personal project using javascript added to github.
 
-Week of June 7th 2021: PostgreSQL (Movie Watchlist App that uses SQL)
+Week of June 7th 2021: PostgreSQL (Movie Watchlist App that uses SQL), Intro to postgreSQL
 
 Week of June 14th 2021: 
 
