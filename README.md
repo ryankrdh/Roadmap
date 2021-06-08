@@ -6,11 +6,11 @@ HTML, CSS, Javascript and Json fundamentals: JAN 2021-MAR 2021
 
 Work on Python (+pip), Github: APRIL - MAY 2021
 
-Postgresql (+MySQLdb), REST API + DJANGO: JUNE 2021
+Postgresql (+MySQLdb), REST API + DJANGO: JUNE -JULY2021
 
-Data Structures and Algorithms, VCS, unit testing: JULY 2021
+Data Structures and Algorithms, VCS, unit testing: AUG 2021
 
-Advanced Python(Socket Programming, Concurrent Programming) : AUG-OCT 2021 
+Advanced Python(Socket Programming, Concurrent Programming) : SEPT-OCT 2021 
 
 Practical training, python libraries, set up web server, projects: NOV 2021
 
