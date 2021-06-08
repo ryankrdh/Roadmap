@@ -36,9 +36,9 @@ Week of May 17th 2021: Python 3 Bootcamp, Milestone 1 project, hackerrank/edabit
 
 Week of May 24th 2021: Python 3 Bootcamp(OOP, Modules and Packages, Errors and Exception Handling, Python Decorators, python generators, advanced python modules, webscraping, debugger), Milestone 1 project, MileStone 2 project, Milestone 3 project, Uploaded JS personal project.
 
-Week of May 31th 2021: Python 3 Bootcamp(webscraping, debugger, working with images with python, PDFs and Spreadsheets, emails with python, advanced python objects and data structures), explore final capstone project ideas. PostgreSQL (Programming journal that uses SQLite), personal project using javascript added to github.
+Week of May 31th 2021: Python 3 Bootcamp(webscraping, debugger, working with images with python, PDFs and Spreadsheets, emails with python, advanced python objects and data structures), explore final capstone project ideas. PostgreSQL (Programming Journal that uses SQLite), personal project using javascript added to github.
 
-Week of June 7th 2021: PostgreSQL (Movie Watchlist App that uses SQL), Intro to postgreSQL
+Week of June 7th 2021: PostgreSQL (Movie Watchlist App that uses SQLite, Poll App with Advanced SQL), Intro to postgreSQL
 
 Week of June 14th 2021: 
 
