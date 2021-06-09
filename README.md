@@ -23,7 +23,7 @@ THINGS TO CONSIDER LOOKING INTO IN THE FUTURE: unit testing, NoSQL(MongoDB)(+Cac
 
 ## PROGRAMMING JOURNAL
 
-**------------------------------- JANUARY - MARCH -------------------------------** <br />
+**------------------------------- NOVEMBER - MARCH -------------------------------** <br />
 JAN 2021 - MAR 2021: HTML, CSS, JAVASCRIPT FUNDAMENTALS PART 1 AND 2, JSON FUNDAMENTALS. Two personal projects finished. Not uploaded to github yet. 
 
 
