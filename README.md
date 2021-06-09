@@ -1,4 +1,4 @@
-# Roadmap
+# ROADMAP
 
 HTML, CSS, Javascript and Json fundamentals: JAN 2021 - MAR 2021
 
@@ -23,11 +23,11 @@ THINGS TO CONSIDER LOOKING INTO IN THE FUTURE: unit testing, NoSQL(MongoDB)(+Cac
 
 ## PROGRAMMING JOURNAL
 
-**------------------------------- JANUARY - MARCH -------------------------------**
+**------------------------------- JANUARY - MARCH -------------------------------** <br />
 JAN 2021 - MAR 2021: HTML, CSS, JAVASCRIPT FUNDAMENTALS PART 1 AND 2, JSON FUNDAMENTALS. Two personal projects finished. Not uploaded to github yet. 
 
 
-**------------------------------------ APRIL ------------------------------------**
+**------------------------------------ APRIL ------------------------------------** <br />
 Week of Apr 5th 2021: Python 3 Bootcamp(Python Object and Data Structure Basics)
 
 Week of Apr 12th 2021: Python 3 Bootcamp(Python Object and Data Structure Basics, Python Comparison Operators)
@@ -37,7 +37,7 @@ Week of Apr 19th 2021: Python 3 Bootcamp(Python Statements, Methods and Function
 Week of Apr 26th 2021: Python 3 Bootcamp(Methods and Functions, advanced python objects and data structures)
 
 
-**------------------------------------- MAY -------------------------------------**
+**------------------------------------- MAY -------------------------------------** <br />
 Week of May 10th 2021: Python 3 Bootcamp, github (Introduction Sequence, Ramping Up), Pycharm tutorial + debugging, start github and Milestone 1 project. Hackerrank/edabit challenges.
 
 Week of May 17th 2021: Python 3 Bootcamp, Milestone 1 project, hackerrank/edabit challenges, Milestone 2 project
@@ -47,7 +47,7 @@ Week of May 24th 2021: Python 3 Bootcamp(OOP, Modules and Packages, Errors and E
 Week of May 31th 2021: Python 3 Bootcamp(webscraping, debugger, working with images with python, PDFs and Spreadsheets, emails with python, advanced python objects and data structures), explore final capstone project ideas. PostgreSQL (Programming Journal that uses SQLite), personal project using javascript added to github.
 
 
-**------------------------------------ JUNE ------------------------------------**
+**------------------------------------ JUNE ------------------------------------** <br />
 Week of June 7th 2021: PostgreSQL (Movie Watchlist App that uses SQLite, Poll App with Advanced SQL, Indexing), Intro to PostgreSQL, 
 
 Week of June 14th 2021: 
@@ -57,7 +57,7 @@ Week of June 21th 2021:
 Week of June 28th 2021: 
 
 
-**------------------------------------ JULY ------------------------------------**
+**------------------------------------ JULY ------------------------------------** <br />
 Week of July 5th 2021: 
 
 Week of July 12th 2021: 
@@ -67,7 +67,7 @@ Week of July 19th 2021:
 Week of July 26th 2021: 
 
 **
------------------------------------ AUGUST -----------------------------------**
+----------------------------------- AUGUST -----------------------------------** <br />
 Week of Aug 2nd 2021: 
 
 Week of Aug 9th 2021: 
@@ -79,7 +79,7 @@ Week of Aug 23rd 2021:
 Week of Aug 30th 2021: 
 
 **
----------------------------------- SEPTEMBER ----------------------------------**
+---------------------------------- SEPTEMBER ----------------------------------** <br />
 Week of Sept 6th 2021: 
 
 Week of Sept 13th 2021: 
@@ -89,7 +89,7 @@ Week of Sept 20th 2021:
 Week of Sept 27th 2021: 
 
 **
------------------------------------ OCTOBER -----------------------------------**
+----------------------------------- OCTOBER -----------------------------------** <br />
 Week of Oct 4th 2021: 
 
 Week of Oct 11th 2021: 
@@ -99,7 +99,7 @@ Week of Oct 18th 2021:
 Week of Oct 25th 2021: 
 
 
-**---------------------------------- NOVEMBER ----------------------------------**
+**---------------------------------- NOVEMBER ----------------------------------** <br />
 Week of Nov 1st 2021: 
 
 Week of Nov 8th 2021: 
@@ -111,7 +111,7 @@ Week of Nov 22th 2021:
 Week of Nov 29th 2021:
 
 **
----------------------------------- DECEMBER ----------------------------------**
+---------------------------------- DECEMBER ----------------------------------** <br />
 Week of Dec 6th 2021: 
 
 Week of Dec 13th 2021: 
