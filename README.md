@@ -12,11 +12,9 @@ Data Structures and Algorithms, VCS, unit testing: AUG 2021
 
 Advanced Python(Socket Programming, Concurrent Programming) + PROJECTS: SEPT - OCT 2021 
 
-STUDY FOR INTERVIEW: NOV 2021
+STUDY FOR INTERVIEWS: NOV - DEC 2021
 
-Practical training, python libraries, set up web server, projects: DEC 2021
-
-THINGS TO CONSIDER LOOKING INTO IN THE FUTURE: NoSQL(MongoDB)(+Caching), Managing hosting, Best Coding Standards, GUI (Tkinter), PGAdmin (SQL GUI)
+THINGS TO CONSIDER LOOKING INTO IN THE FUTURE: NoSQL(MongoDB)(+Caching), Managing hosting, Best Coding Standards, GUI (Tkinter), PGAdmin (SQL GUI), Practical training, python libraries, set up web server, projects
 
 
 ## Programming Journal
