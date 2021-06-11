@@ -12,10 +12,10 @@ Postgresql, REST API+DJANGO, Python on the Backend: JUNE - JULY2021
 Advanced Python(Socket Programming, Concurrent Programming) + PROJECTS: AUG - SEPT 2021 
 
 
-Data Structures, Algorithms, and Study for interviews (https://leetcode.com/), : OCT 2021
+Data Structures, Algorithms, and Study for interviews (https://leetcode.com/), : OCT-DEC 2021
 
 
-Advanced Algorithms and Data Structures in Python: NOV - DEC 2021
+Advanced Algorithms and Data Structures in Python: DEC 2021
 
 
 THINGS TO CONSIDER LOOKING INTO IN THE FUTURE: unit testing, NoSQL(MongoDB)(+Caching), Managing hosting, Best Coding Standards, GUI (Tkinter), PGAdmin (SQL GUI), Practical training, python libraries, set up web server, projects
