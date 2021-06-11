@@ -12,7 +12,7 @@ Postgresql, REST API+DJANGO, Python on the Backend: JUNE - JULY2021
 Advanced Python(Socket Programming, Concurrent Programming) + PROJECTS: AUG - SEPT 2021 
 
 
-Data Structures, Algorithms, and Study for interviews: OCT 2021
+Data Structures, Algorithms, and Study for interviews (https://leetcode.com/), : OCT 2021
 
 
 Advanced Algorithms and Data Structures in Python: NOV - DEC 2021
@@ -48,7 +48,7 @@ Week of May 31th 2021: Python 3 Bootcamp(webscraping, debugger, working with ima
 
 
 **------------------------------------ JUNE ------------------------------------** <br />
-Week of June 7th 2021: PostgreSQL (Movie Watchlist App that uses SQLite, Poll App with Advanced SQL, Indexing), Intro to PostgreSQL, Migrate Project Watch Movielist to PostgreSQL,
+Week of June 7th 2021: PostgreSQL (Movie Watchlist App that uses SQLite, Poll App with Advanced SQL, Indexing), Intro to PostgreSQL, Migrate Project Watch Movielist to PostgreSQL, Fixed bugs and issues with Movie List app on github, Poll App
 
 Week of June 14th 2021: 
 
