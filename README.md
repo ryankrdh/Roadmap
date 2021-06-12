@@ -6,13 +6,13 @@ HTML, CSS, Javascript and Json fundamentals: JAN 2021 - MAR 2021
 Work on Python Bootcamp, Github: APRIL - MAY 2021
 
 
-Postgresql, REST API+DJANGO, Python on the Backend: JUNE - JULY2021
+Postgresql, REST API+DJANGO, Python on the Backend ((Coding Interview Book)): JUNE - JULY2021
 
 
-Advanced Python(Socket Programming, Concurrent Programming) + PROJECTS: AUG - SEPT 2021 
+Advanced Python(Socket Programming, Concurrent Programming) + PROJECTS ((Coding Interview Book)): AUG - SEPT 2021 
 
 
-Data Structures, Algorithms, and Study for interviews (leetcode), : OCT-DEC 2021
+Data Structures, Algorithms, and Study for interviews (leetcode) ((Coding Interview Book)): OCT-DEC 2021
 
 
 Advanced Algorithms and Data Structures in Python: DEC 2021
@@ -48,7 +48,7 @@ Week of May 31th 2021: Python 3 Bootcamp(webscraping, debugger, working with ima
 
 
 **------------------------------------ JUNE ------------------------------------** <br />
-Week of June 7th 2021: PostgreSQL (Movie Watchlist App that uses SQLite, Poll App with Advanced SQL, Indexing), Intro to PostgreSQL, Migrate Project Watch Movielist to PostgreSQL, Fixed bugs and issues with Movie List app on github, Poll App
+Week of June 7th 2021: PostgreSQL (Movie Watchlist App that uses SQLite, Poll App with Advanced SQL, Indexing), Intro to PostgreSQL, Migrate Project Watch Movielist to PostgreSQL, Fixed bugs and issues with Movie List app on github, Poll App, ((Coding Interview Book))
 
 Week of June 14th 2021: 
 
