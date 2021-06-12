@@ -3,7 +3,7 @@
 HTML, CSS, Javascript and Json fundamentals: JAN 2021 - MAR 2021
 
 
-Work on Python Bootcamp (+pip), Github: APRIL - MAY 2021
+Work on Python Bootcamp, Github: APRIL - MAY 2021
 
 
 Postgresql, REST API+DJANGO, Python on the Backend: JUNE - JULY2021
@@ -12,7 +12,7 @@ Postgresql, REST API+DJANGO, Python on the Backend: JUNE - JULY2021
 Advanced Python(Socket Programming, Concurrent Programming) + PROJECTS: AUG - SEPT 2021 
 
 
-Data Structures, Algorithms, and Study for interviews (https://leetcode.com/), : OCT-DEC 2021
+Data Structures, Algorithms, and Study for interviews (leetcode), : OCT-DEC 2021
 
 
 Advanced Algorithms and Data Structures in Python: DEC 2021
