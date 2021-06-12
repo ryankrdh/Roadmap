@@ -12,10 +12,13 @@ Postgresql, REST API+DJANGO, Python on the Backend ((Coding Interview Book)): JU
 Advanced Python(Socket Programming, Concurrent Programming) + PROJECTS ((Coding Interview Book)): AUG - SEPT 2021 
 
 
-Data Structures, Algorithms, and Study for interviews (leetcode) ((Coding Interview Book)): OCT-DEC 2021
+Data Structures, Algorithms, and Study for interviews (leetcode) ((Coding Interview Book)),
+https://runestone.academy/runestone/books/published/pythonds/index.html : OCT-DEC 2021
 
 
 Advanced Algorithms and Data Structures in Python: DEC 2021
+
+MIT Intro to Algorithm class: JAN 2022
 
 
 THINGS TO CONSIDER LOOKING INTO IN THE FUTURE: unit testing, NoSQL(MongoDB)(+Caching), Managing hosting, Best Coding Standards, GUI (Tkinter), PGAdmin (SQL GUI), Practical training, python libraries, set up web server, projects
