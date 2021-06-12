@@ -48,9 +48,9 @@ Week of May 31th 2021: Python 3 Bootcamp(webscraping, debugger, working with ima
 
 
 **------------------------------------ JUNE ------------------------------------** <br />
-Week of June 7th 2021: PostgreSQL (Movie Watchlist App that uses SQLite, Poll App with Advanced SQL, Indexing), Intro to PostgreSQL, Migrate Project Watch Movielist to PostgreSQL, Fixed bugs and issues with Movie List app on github, Poll App, ((Coding Interview Book))
+Week of June 7th 2021: PostgreSQL (Movie Watchlist App that uses SQLite, Poll App with Advanced SQL, Indexing), Intro to PostgreSQL, Migrate Project Watch Movielist to PostgreSQL, Fixed bugs and issues with Movie List app on github, Poll App
 
-Week of June 14th 2021: 
+Week of June 14th 2021: ((Coding Interview Book))
 
 Week of June 21th 2021: 
 
