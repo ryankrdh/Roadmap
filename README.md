@@ -18,7 +18,8 @@ https://runestone.academy/runestone/books/published/pythonds/index.html : OCT-DE
 
 Advanced Algorithms and Data Structures in Python, Grokking the System Designs Interview: DEC 2021
 
-MIT Intro to Algorithm class: JAN 2022
+
+MIT Intro to Algorithm class + Fluent Python: JAN 2022
 
 
 THINGS TO CONSIDER LOOKING INTO IN THE FUTURE: unit testing, NoSQL(MongoDB)(+Caching), Managing hosting, Best Coding Standards, GUI (Tkinter), PGAdmin (SQL GUI), Practical training, python libraries, set up web server, projects
@@ -125,7 +126,6 @@ Week of Dec 27th 2021:
 
 
 
-2022: Don’t limit your challenges, challenge your limits!
 
 
 
