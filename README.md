@@ -14,7 +14,7 @@ PostgreSQL part 1, PEP 8, Data Structures, Algorithms, and Study for interviews,
 REST API+DJANGO Beginner, Advanced Python (Socket Programming) + PROJECTS ((Coding Interview Book)): AUG - SEPT 2021
 
 
-REST API+DJANGO Advanced, PostgreSQL part 2, Python on the Backend ((Coding Interview Book)): OCT 2021
+REST API+DJANGO Advanced, PostgreSQL part 2, Python on the Backend (relational and non relational) ((Coding Interview Book)): OCT 2021
 
 
 Advanced Algorithms and Data Structures in Python, Grokking the System Designs Interview ((Leetcode)): NOV-DEC 2021
@@ -55,7 +55,7 @@ Week of May 31th 2021: Python 3 Bootcamp(webscraping, debugger, working with ima
 **------------------------------------ JUNE 2021 ------------------------------------** </br>
 Week of June 7th 2021: PostgreSQL (Movie Watchlist App that uses SQLite, Poll App with Advanced SQL, Indexing), Intro to PostgreSQL, Migrate Project Watch Movielist to PostgreSQL, Fixed bugs and issues with Movie List app on github, Poll App, OOP, intro to software design.
 
-Week of June 14th 2021: Data Structures, Algorithms, and Study for interviews.((Coding Interview Book))
+Week of June 14th 2021: Data Structures, Algorithms, and Study for interviews, intro to software design.((Coding Interview Book))
 
 Week of June 21th 2021: 
 
