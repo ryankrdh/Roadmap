@@ -2,7 +2,7 @@
 
 ## Train your discipline. </br> Practice practice practice...
 
-HTML, CSS, Javascript and Json fundamentals: JAN 2021 - MAR 2021
+HTML, CSS, Javascript and Json fundamentals: NOV 2020 - MAR 2021
 
 
 Python Bootcamp, Github: APRIL - MAY 2021
