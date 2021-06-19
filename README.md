@@ -23,7 +23,7 @@ Advanced Algorithms and Data Structures in Python, Grokking the System Designs I
 Fluent Python: JAN - MAR 2022
 
 
-THINGS TO CONSIDER LOOKING INTO IN THE FUTURE: unit testing, NoSQL(MongoDB)(+Caching), Managing hosting, GUI (Tkinter), PGAdmin (SQL GUI), Practical training, python libraries, set up web server, more projects
+THINGS TO CONSIDER LOOKING INTO IN THE FUTURE: Java, unit testing, NoSQL(MongoDB)(+Caching), Managing hosting, GUI (Tkinter), PGAdmin (SQL GUI), Practical training, python libraries, set up web server, more projects
 
 
 # PROGRAMMING JOURNAL
