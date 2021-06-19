@@ -55,7 +55,7 @@ Week of May 31th 2021: Python 3 Bootcamp(webscraping, debugger, working with ima
 **------------------------------------ JUNE 2021 ------------------------------------** </br>
 Week of June 7th 2021: PostgreSQL (Movie Watchlist App that uses SQLite, Poll App with Advanced SQL, Indexing), Intro to PostgreSQL, Migrate Project Watch Movielist to PostgreSQL, Fixed bugs and issues with Movie List app on github, Poll App, OOP, intro to software design.
 
-Week of June 14th 2021: Data Structures, Algorithms, and Study for interviews, intro to software design. OOP review, resume draft(edited), create linkedin profile, job search organization spreadsheet((Coding Interview Book-Big O))
+Week of June 14th 2021: Data Structures, Algorithms, and Study for interviews, intro to software design. OOP review, resume draft(edited), create linkedin profile, job search organization spreadsheet, algorithm analysis and big O. ((Coding Interview Book-Big O))
 
 Week of June 21th 2021: 
 
@@ -146,6 +146,21 @@ Week of Feb 14th 2022:
 Week of Feb 21st 2022:
 
 Week of Feb 28th 2022: 
+
+
+
+BASIC QUALIFICATIONS:
+
+· Programming experience with at least one modern language such as Java, C++, or C# </br>
+· Strong fundamentals in core Computer Science areas like Object Oriented Design, Data Structures and Algorithms </br>
+· Programming experience with one or more core, object-oriented programming language (Java, C++, Python, JavaScript, Typescript) </br>
+· 1+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems. </br>
+· Experience working with distributed systems </br>
+· Development experience using agile methodologies such as Scrum or Kanban </br>
+· Excellent problem solving skills </br>
+· Deep knowledge of distributed systems, asynchronous architectures. </br>
+· Able to work in a diverse team </br>
+· Candidate must be a fast learner and have the ability to adapt quickly to a fast-paced development environment. </br>
 
 
 
