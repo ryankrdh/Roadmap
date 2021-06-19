@@ -8,16 +8,16 @@ HTML, CSS, Javascript and Json fundamentals: NOV 2020 - MAR 2021
 Python Bootcamp, Github: APRIL - MAY 2021
 
 
-PostgreSQL part 1, PEP 8, Data Structures, Algorithms, and Study for interviews, MIT Intro to Algorithm class, ((Coding Interview Book)): JUNE - JULY 2021
+PostgreSQL part 1, PEP 8, Data Structures, Algorithms, and Study for interviews, MIT Intro to Algorithm class, ((Coding Interview Book + leetcode)): JUNE - JULY 2021
 
 
-REST API+DJANGO Beginner, Advanced Python (Socket Programming) + PROJECTS ((Coding Interview Book)): AUG - SEPT 2021
+REST API+DJANGO Beginner, Advanced Python (Socket Programming) + PROJECTS ((Coding Interview Book + leetcode)): AUG - SEPT 2021
 
 
-REST API+DJANGO Advanced, PostgreSQL part 2, Python on the Backend (relational and non relational) ((Coding Interview Book)): OCT 2021
+REST API+DJANGO Advanced, PostgreSQL part 2, Python on the Backend (relational and non relational) ((Coding Interview Book + leetcode)): OCT 2021
 
 
-Advanced Algorithms and Data Structures in Python, Grokking the System Designs Interview ((Leetcode)): NOV-DEC 2021
+Advanced Algorithms and Data Structures in Python, Grokking the System Designs Interview ((Coding Interview Book + leetcode)): NOV-DEC 2021
 
 
 Fluent Python: JAN - MAR 2022
