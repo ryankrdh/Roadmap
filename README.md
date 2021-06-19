@@ -9,6 +9,15 @@ Python Bootcamp, Github: APRIL - MAY 2021
 
 
 PostgreSQL part 1, PEP 8, Data Structures, Algorithms, and Study for interviews, MIT Intro to Algorithm class, ((Coding Interview Book + leetcode)): JUNE - JULY 2021
+  Chapter 1 June 21st
+  Chapter 2 June 28th
+  Chapter 3 July 5th
+  Chapter 4 July 12th
+  Chapter 5 July 19th
+  Chapter 7 July 26th
+  Chapter 8 Aug 2nd
+  Chapter 9 Aug 9th
+  Chapter 10 Aug 16th
 
 
 REST API+DJANGO Beginner, Advanced Python (Socket Programming) + PROJECTS ((Coding Interview Book + leetcode)): AUG - SEPT 2021
