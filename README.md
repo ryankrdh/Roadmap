@@ -172,6 +172,11 @@ BASIC QUALIFICATIONS:
 · Candidate must be a fast learner and have the ability to adapt quickly to a fast-paced development environment. </br>
 
 
+______________________________________________________________________________________________________
+
+QUESTIONS:  
+
+BIG-O: Logarithmic complexity and binary searches.
 
 
 
