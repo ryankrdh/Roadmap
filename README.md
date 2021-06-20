@@ -9,7 +9,7 @@ Python Bootcamp, Github: APRIL - MAY 2021
 
 
 PostgreSQL part 1, PEP 8, Data Structures, Algorithms, and Study for interviews, MIT Intro to Algorithm class, ((Coding Interview Book + leetcode)): JUNE - AUG 2021
-  Chapter 0 BIG O: June 21st
+  Chapter 0 BIG O - TECHNICAL QUESTIONS: June 21st
   Chapter 1 ARRAYS AND STRINGS: June 28th
   Chapter 2 LINKED LISTS: July 5th
   Chapter 3 STACKS AND QUEUES: July 12th
