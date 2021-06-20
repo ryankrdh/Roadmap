@@ -8,28 +8,30 @@ HTML, CSS, Javascript and Json fundamentals: NOV 2020 - MAR 2021
 Python Bootcamp, Github: APRIL - MAY 2021
 
 
-PostgreSQL part 1, PEP 8, Data Structures, Algorithms, and Study for interviews, MIT Intro to Algorithm class, ((Coding Interview Book + leetcode)): JUNE - JULY 2021
-  Chapter 1 June 21st
-  Chapter 2 June 28th
-  Chapter 3 July 5th
-  Chapter 4 July 12th
-  Chapter 5 July 19th
-  Chapter 7 July 26th
-  Chapter 8 Aug 2nd
-  Chapter 9 Aug 9th
-  Chapter 10 Aug 16th
+PostgreSQL part 1, PEP 8, Data Structures, Algorithms, and Study for interviews, MIT Intro to Algorithm class, ((Coding Interview Book + leetcode)): JUNE - AUG 2021
+  Chapter 0 BIG O: June 21st
+  Chapter 1 ARRAYS AND STRINGS: June 28th
+  Chapter 2 LINKED LISTS: July 5th
+  Chapter 3 STACKS AND QUEUES: July 12th
+  Chapter 4 TREES AND GRAPHS: July 19th
+  Chapter 5 BIT MANIPULATION: July 26th
+  Chapter 7 OBJECT-ORIENTED DESIGN: Aug 2nd
+  Chapter 8 RECURSION AND DYNAMIC PROGRAMMING: Aug 9th
+  Chapter 9 SYSTEM DESIGN AND SCALABILITY: Aug 16th
+  Chapter 10 SORTING AND SEARCHING: Aug 23rd
+  Chapter 14 DATABASES: Aug 30th
 
 
-REST API+DJANGO Beginner, Advanced Python (Socket Programming) + PROJECTS ((Coding Interview Book + leetcode)): AUG - SEPT 2021
+REST API+DJANGO Beginner, Advanced Python (Socket Programming) + PROJECTS ((Coding Interview Book + leetcode)): SEPT - OCT 2021
 
 
-REST API+DJANGO Advanced, PostgreSQL part 2, Python on the Backend (relational and non relational) ((Coding Interview Book + leetcode)): OCT 2021
+REST API+DJANGO Advanced, PostgreSQL part 2, Python on the Backend (relational and non relational) ((Coding Interview Book + leetcode)): NOV 2021
 
 
-Advanced Algorithms and Data Structures in Python, Grokking the System Designs Interview ((Coding Interview Book + leetcode)): NOV-DEC 2021
+Advanced Algorithms and Data Structures in Python, Grokking the System Designs Interview ((Coding Interview Book + leetcode)): DEC 2021 - JAN 2022
 
 
-Fluent Python: JAN - MAR 2022
+Fluent Python: FEB - MAR 2022
 
 
 THINGS TO CONSIDER LOOKING INTO IN THE FUTURE: Java, unit testing, NoSQL(MongoDB)(+Caching), Managing hosting, GUI (Tkinter), PGAdmin (SQL GUI), Practical training, python libraries, set up web server, more projects
