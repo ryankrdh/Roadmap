@@ -44,7 +44,7 @@ ________________________________________________________________________________
 # PROGRAMMING JOURNAL
 
 **------------------------------- NOVEMBER 2020 - MARCH 2021 -------------------------------**   
-JAN 2021 - MAR 2021: HTML, CSS, JAVASCRIPT FUNDAMENTALS PART 1 AND 2, JSON FUNDAMENTALS. Two personal projects finished. Not uploaded to github yet. 
+NOV 2020 - MAR 2021: HTML, CSS, JAVASCRIPT FUNDAMENTALS PART 1 AND 2, JSON FUNDAMENTALS. Two personal projects finished. Not uploaded to github yet. 
 
 
 **------------------------------------------- APRIL 2021 ------------------------------------------**    
