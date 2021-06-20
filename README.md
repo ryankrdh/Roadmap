@@ -6,18 +6,18 @@ HTML, CSS, Javascript and Json fundamentals: NOV 2020 - MAR 2021
 
 Python Bootcamp, Github: APRIL - MAY 2021
 
-PostgreSQL part 1, PEP 8, Data Structures, Algorithms, and Study for interviews, MIT Intro to Algorithm class, ((Coding Interview Book + leetcode)): JUNE - AUG 2021
-  Chapter 0 BIG O - TECHNICAL QUESTIONS: June 21st
-  Chapter 1 ARRAYS AND STRINGS: June 28th
-  Chapter 2 LINKED LISTS: July 5th
-  Chapter 3 STACKS AND QUEUES: July 12th
-  Chapter 4 TREES AND GRAPHS: July 19th
-  Chapter 5 BIT MANIPULATION: July 26th
-  Chapter 7 OBJECT-ORIENTED DESIGN: Aug 2nd
-  Chapter 8 RECURSION AND DYNAMIC PROGRAMMING: Aug 9th
-  Chapter 9 SYSTEM DESIGN AND SCALABILITY: Aug 16th
-  Chapter 10 SORTING AND SEARCHING: Aug 23rd
-  Chapter 14 DATABASES: Aug 30th
+PostgreSQL part 1, PEP 8, Data Structures, Algorithms, and Study for interviews, MIT Intro to Algorithm class, ((Coding Interview Book + leetcode)): JUNE - AUG 2021 </br>
+  Chapter 0 BIG O - TECHNICAL QUESTIONS: June 21st </br>
+  Chapter 1 ARRAYS AND STRINGS: June 28th </br>
+  Chapter 2 LINKED LISTS: July 5th </br>
+  Chapter 3 STACKS AND QUEUES: July 12th </br>
+  Chapter 4 TREES AND GRAPHS: July 19th </br>
+  Chapter 5 BIT MANIPULATION: July 26th </br>
+  Chapter 7 OBJECT-ORIENTED DESIGN: Aug 2nd </br>
+  Chapter 8 RECURSION AND DYNAMIC PROGRAMMING: Aug 9th </br>
+  Chapter 9 SYSTEM DESIGN AND SCALABILITY: Aug 16th </br>
+  Chapter 10 SORTING AND SEARCHING: Aug 23rd </br>
+  Chapter 14 DATABASES: Aug 30th </br>
 
 REST API+DJANGO Beginner, Advanced Python (Socket Programming) + PROJECTS ((Coding Interview Book + leetcode)): SEPT - OCT 2021
 
