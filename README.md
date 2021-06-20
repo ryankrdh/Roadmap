@@ -19,11 +19,9 @@ PostgreSQL part 1, PEP 8, Data Structures, Algorithms, and Study for interviews,
   Chapter 10 SORTING AND SEARCHING: Aug 23rd </br>
   Chapter 14 DATABASES: Aug 30th </br>
 
-REST API+DJANGO Beginner, Advanced Python (Socket Programming) + PROJECTS ((Coding Interview Book + leetcode)): SEPT - OCT 2021
+REST API+DJANGO Beginner, Advanced Python (Socket Programming) + PROJECTS ((Coding Interview Book + leetcode)): SEPT - OCT 2021 </br>
 
----- APPLY FOR INTERVIEWS!!! stay hungry, stay foolish. Keep trying ----- NOVEMBER 2021
-
-
+### ---- APPLY FOR INTERVIEWS!!! stay hungry, stay foolish. Keep trying ----- NOVEMBER 2021
 
 (While applying for jobs) REST API+DJANGO Advanced, PostgreSQL part 2, Python on the Backend (relational and non relational) ((Coding Interview Book + leetcode)): NOV 2021
 
