@@ -1,12 +1,10 @@
 # ROADMAP
 
-## Train your discipline. </br> Practice practice practice... </br> stay hungry, stay foolish
+## Train your discipline. </br> Practice practice practice... </br> 
 
 HTML, CSS, Javascript and Json fundamentals: NOV 2020 - MAR 2021
 
-
 Python Bootcamp, Github: APRIL - MAY 2021
-
 
 PostgreSQL part 1, PEP 8, Data Structures, Algorithms, and Study for interviews, MIT Intro to Algorithm class, ((Coding Interview Book + leetcode)): JUNE - AUG 2021
   Chapter 0 BIG O - TECHNICAL QUESTIONS: June 21st
@@ -21,14 +19,16 @@ PostgreSQL part 1, PEP 8, Data Structures, Algorithms, and Study for interviews,
   Chapter 10 SORTING AND SEARCHING: Aug 23rd
   Chapter 14 DATABASES: Aug 30th
 
-
 REST API+DJANGO Beginner, Advanced Python (Socket Programming) + PROJECTS ((Coding Interview Book + leetcode)): SEPT - OCT 2021
 
+---- APPLY FOR INTERVIEWS!!! stay hungry, stay foolish. Keep trying ----- NOVEMBER 2021
 
-REST API+DJANGO Advanced, PostgreSQL part 2, Python on the Backend (relational and non relational) ((Coding Interview Book + leetcode)): NOV 2021
 
 
-Advanced Algorithms and Data Structures in Python, Grokking the System Designs Interview ((Coding Interview Book + leetcode)): DEC 2021 - JAN 2022
+(While applying for jobs) REST API+DJANGO Advanced, PostgreSQL part 2, Python on the Backend (relational and non relational) ((Coding Interview Book + leetcode)): NOV 2021
+
+
+(While applying for jobs) Advanced Algorithms and Data Structures in Python, Grokking the System Designs Interview ((Coding Interview Book + leetcode)): DEC 2021 - JAN 2022
 
 
 Fluent Python: FEB - MAR 2022
