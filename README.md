@@ -8,17 +8,28 @@ Python Bootcamp, Github: APRIL - MAY 2021.
 
 PostgreSQL part 1, PEP 8, Data Structures, Algorithms, and Study for interviews, MIT Intro to Algorithm class, ((Coding Interview Book + leetcode)): JUNE - AUG 2021.  
 
-  Chapter 0 BIG O - TECHNICAL QUESTIONS: June 21st.  
-  Chapter 1 ARRAYS AND STRINGS: June 28th.  
-  Chapter 2 LINKED LISTS: July 5th.  
-  Chapter 3 STACKS AND QUEUES: July 12th.  
-  Chapter 4 TREES AND GRAPHS: July 19th.  
-  Chapter 5 BIT MANIPULATION: July 26th.  
-  Chapter 7 OBJECT-ORIENTED DESIGN: Aug 2nd.  
-  Chapter 8 RECURSION AND DYNAMIC PROGRAMMING: Aug 9th.  
-  Chapter 9 SYSTEM DESIGN AND SCALABILITY: Aug 16th.  
-  Chapter 10 SORTING AND SEARCHING: Aug 23rd.  
-  Chapter 14 DATABASES: Aug 30th.  
+  BIG O - TECHNICAL QUESTIONS: June 21st.  
+  
+  ARRAYS AND STRINGS: June 28th.  
+  
+  STACKS AND QUEUES: July 5th.  
+  
+  LINKED LISTS: July 12th.  
+  
+  RECURSION AND DYNAMIC PROGRAMMING: July 19th.  
+  
+  TREES AND GRAPHS: July 26th.       
+  
+  SORTING AND SEARCHING: Aug 2nd.     
+  
+  BIT MANIPULATION and RIDDLES: Aug 9th.       
+  
+  OBJECT-ORIENTED DESIGN: Aug 16th.      
+  
+  SYSTEM DESIGN AND SCALABILITY: Aug 23rd.  
+  
+  DATABASES: Aug 30th.      
+  
 
 REST API+DJANGO Beginner, Advanced Python (Socket Programming) + PROJECTS ((Coding Interview Book + leetcode)): SEPT - OCT 2021. 
 
