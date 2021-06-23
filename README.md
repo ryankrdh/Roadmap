@@ -1,8 +1,12 @@
-# ROADMAP
+
 
 ## Train your discipline and keep practicing. 365 Days of Code. </br>
 
 ## It's only overwhelming and scary because you don't understand it yet. </br>
+___
+___
+
+# ROADMAP
 
 HTML, CSS, Javascript and Json fundamentals: NOV 2020 - MAR 2021.  
 
@@ -12,35 +16,37 @@ PostgreSQL part 1, PEP 8, Data Structures, Algorithms, and Study for interviews,
   
   Estimated time frame for each chapter: 
   
-  BIG O - TECHNICAL QUESTIONS: June 21st.  
+  BIG O - TECHNICAL QUESTIONS: June 14th.
   
-  ARRAYS AND STRINGS: June 28th.  
+  ARRAYS AND STRINGS: June 21st.  
   
-  STACKS AND QUEUES: July 5th.  
+  STACKS AND QUEUES: June 28th.  
   
-  LINKED LISTS: July 12th.  
+  LINKED LISTS: July 5th.  
   
-  RECURSION AND DYNAMIC PROGRAMMING: July 19th.  
+  RECURSION AND DYNAMIC PROGRAMMING: July 12th.  
   
-  TREES AND GRAPHS: July 26th.       
+  TREES AND GRAPHS: July 19th.  
   
-  SORTING AND SEARCHING: Aug 2nd.     
+  SORTING AND SEARCHING: July 26th.       
   
-  BIT MANIPULATION and RIDDLES: Aug 9th.       
+  BIT MANIPULATION: Aug 2nd.     
   
-  OBJECT-ORIENTED DESIGN: Aug 16th.      
+  OBJECT-ORIENTED DESIGN: Aug 9th.       
   
-  SYSTEM DESIGN AND SCALABILITY: Aug 23rd.  
+  SYSTEM DESIGN AND SCALABILITY: Aug 16th.      
   
-  DATABASES: Aug 30th.      
+  DATABASES: Aug 23rd.  
+  
+  REVIEW: Aug 30th.      
   
 
 REST API+DJANGO Beginner, Advanced Python (Socket Programming) + PROJECTS ((Coding Interview Book + leetcode)): SEPT - OCT 2021. 
 
-____________________________________________________________________________________________
+___
 
 ###  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ---- APPLY FOR INTERVIEWS!!! stay hungry, stay foolish. Keep trying ----- NOVEMBER 2021.  
-____________________________________________________________________________________________
+___
 
 (While applying for jobs) REST API+DJANGO Advanced, PostgreSQL part 2, Python on the Backend (relational and non relational) ((Coding Interview Book + leetcode)): NOV 2021.   
 
@@ -53,9 +59,9 @@ Fluent Python: FEB - MAR 2022.
 
 THINGS TO CONSIDER LOOKING INTO IN THE FUTURE: Java, unit testing, NoSQL(MongoDB)(+Caching), Managing hosting, GUI (Tkinter), PGAdmin (SQL GUI), Practical training, python libraries, set up web server, more projects.  
 
-____________________________________________________________________________________________     
+___     
 
-____________________________________________________________________________________________
+___
 
 # PROGRAMMING JOURNAL
 
