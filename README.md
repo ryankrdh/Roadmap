@@ -1,6 +1,6 @@
 # ROADMAP
 
-## Train your discipline. </br> Practice practice practice...   
+## Train your discipline and practice. </br>
 
 HTML, CSS, Javascript and Json fundamentals: NOV 2020 - MAR 2021.  
 
