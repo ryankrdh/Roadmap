@@ -1,6 +1,8 @@
 # ROADMAP
 
-## Train your discipline and practice. </br>
+## Train your discipline and keep practicing. 365 Days of Code. </br>
+
+## It's only overwhelming and scary because you don't understand it yet. </br>
 
 HTML, CSS, Javascript and Json fundamentals: NOV 2020 - MAR 2021.  
 
