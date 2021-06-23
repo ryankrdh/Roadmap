@@ -51,6 +51,7 @@ THINGS TO CONSIDER LOOKING INTO IN THE FUTURE: Java, unit testing, NoSQL(MongoDB
 
 ____________________________________________________________________________________________     
 
+____________________________________________________________________________________________
 
 # PROGRAMMING JOURNAL
 
@@ -83,7 +84,7 @@ Week of June 7th 2021: PostgreSQL (Movie Watchlist App that uses SQLite, Poll Ap
 
 Week of June 14th 2021: Data Structures, Algorithms, and Study for interviews, intro to software design. OOP review, resume draft(edited), create linkedin profile, job search organization spreadsheet, algorithm analysis and big O notation, array sequences. ((Coding Interview: Book-Big O, technical quesitons))
 
-Week of June 21th 2021: Data Structures, Algorithms, and Study for interviews ((Coding Interview: Array Sequence, Array Pair Sum, Find the missing element))
+Week of June 21th 2021: Data Structures, Algorithms, and Study for interviews ((Coding Interview: Array Sequence, Array Pair Sum, Find the missing element, Largest continuous sum))
 
 Week of June 28th 2021: 
 
