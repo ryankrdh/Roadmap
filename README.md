@@ -7,7 +7,9 @@ HTML, CSS, Javascript and Json fundamentals: NOV 2020 - MAR 2021.
 Python Bootcamp, Github: APRIL - MAY 2021.  
 
 PostgreSQL part 1, PEP 8, Data Structures, Algorithms, and Study for interviews, MIT Intro to Algorithm class, ((Coding Interview Book + leetcode)): JUNE - AUG 2021.  
-
+  
+  Estimated time frame for each chapter: 
+  
   BIG O - TECHNICAL QUESTIONS: June 21st.  
   
   ARRAYS AND STRINGS: June 28th.  
