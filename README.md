@@ -1,8 +1,6 @@
 
 
 ## Train your discipline and keep practicing. 365 Days of Code. </br>
-
-## It's only overwhelming and scary because you don't understand it yet. </br>
 ___
 ___
 
@@ -45,7 +43,7 @@ REST API+DJANGO Beginner, Advanced Python (Socket Programming) + PROJECTS ((Codi
 
 ___
 
-###  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ---- APPLY FOR INTERVIEWS!!! stay hungry, stay foolish. Keep trying ----- NOVEMBER 2021.  
+###  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ------------------------- APPLY FOR INTERVIEWS ------------------------- NOVEMBER 2021.  
 ___
 
 (While applying for jobs) REST API+DJANGO Advanced, PostgreSQL part 2, Python on the Backend (relational and non relational) ((Coding Interview Book + leetcode)): NOV 2021.   
