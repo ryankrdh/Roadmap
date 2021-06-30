@@ -220,6 +220,8 @@ https://theartofmachinery.com/2019/01/05/sorting_is_nlogn.html
 4) BIG-O: pg. 49 Example 9.
 5) BIG-O: pg. 52 Example 12.
 
+6) String compression. Should I be using .append and .join? (string builder)
+
 
 
 
