@@ -94,7 +94,7 @@ Week of June 14th 2021: Data Structures, Algorithms, and Study for interviews, i
 
 Week of June 21th 2021: Data Structures, Algorithms, and Study for interviews ((Coding Interview: Array Sequence, Array Pair Sum, Find the Missing Element, Largest Continuous Sum, Sentence Reversal, String Comparison, Unique Characters in String))
 
-Week of June 28th 2021: Data Structures, Algorithms, and Study for interviews ((Coding Interview: Is Unique, Check Permutation, URLify, Palindrome Permutation,  Stacks Queues, Deques ,
+Week of June 28th 2021: Data Structures, Algorithms, and Study for interviews ((Coding Interview: Is Unique, Check Permutation, URLify, Palindrome Permutation, fizz buzz,  Stacks Queues Deques ,
 
 
 **------------------------------------------- JULY 2021 -------------------------------------------**   
