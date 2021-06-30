@@ -18,25 +18,27 @@ PostgreSQL part 1, PEP 8, Data Structures, Algorithms, and Study for interviews,
   
   ARRAYS AND STRINGS: June 21st.  
   
-  STACKS AND QUEUES: June 28th.  
+  REVIEW BASICS OF BIG O and ARRAYS: June 28th.
   
-  LINKED LISTS: July 5th.  
+  STACKS AND QUEUES: July 5th.  
   
-  RECURSION AND DYNAMIC PROGRAMMING: July 12th.  
+  LINKED LISTS: July 12th.  
   
-  TREES AND GRAPHS: July 19th.  
+  RECURSION AND DYNAMIC PROGRAMMING: July 19th.  
   
-  SORTING AND SEARCHING: July 26th.       
+  TREES AND GRAPHS: July 26th.  
   
-  BIT MANIPULATION: Aug 2nd.     
+  SORTING AND SEARCHING: Augh 2nd.       
   
-  OBJECT-ORIENTED DESIGN: Aug 9th.       
+  BIT MANIPULATION: Aug 9th.     
   
-  SYSTEM DESIGN AND SCALABILITY: Aug 16th.      
+  OBJECT-ORIENTED DESIGN: Aug 16th.       
   
-  DATABASES: Aug 23rd.  
+  SYSTEM DESIGN AND SCALABILITY: Aug 23rd.      
   
-  REVIEW: Aug 30th.      
+  DATABASES: Aug 30th.  
+  
+  REVIEW     
   
 
 REST API+DJANGO Beginner, Advanced Python (Socket Programming) + PROJECTS ((Coding Interview Book + leetcode)): SEPT - OCT 2021. 
