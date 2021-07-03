@@ -96,7 +96,7 @@ Week of June 14th 2021: Data Structures, Algorithms, and Study for interviews, i
 
 Week of June 21th 2021: Data Structures, Algorithms, and Study for interviews ((Coding Interview: Array Sequence, Array Pair Sum, Find the Missing Element, Largest Continuous Sum, Sentence Reversal, String Comparison, Unique Characters in String))
 
-Week of June 28th 2021: Data Structures, Algorithms, and Study for interviews ((Coding Interview: Is Unique, Check Permutation, URLify, Palindrome Permutation, fizz buzz,  Stacks Queues Deques, rotation matrix(reverse method and in-place method), zero matrix, string rotation, 
+Week of June 28th 2021: Data Structures, Algorithms, and Study for interviews ((Coding Interview: Is Unique, Check Permutation, URLify, Palindrome Permutation, fizz buzz,  Stacks Queues Deques, rotation matrix(reverse method and in-place method), zero matrix, string rotation,
 
 
 **------------------------------------------- JULY 2021 -------------------------------------------**   
@@ -224,7 +224,6 @@ https://theartofmachinery.com/2019/01/05/sorting_is_nlogn.html
 
 6) String compression. Should I be using .append and .join? (string builder)
 
-7) reverse matrix
 
 
 
