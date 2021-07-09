@@ -224,6 +224,7 @@ https://theartofmachinery.com/2019/01/05/sorting_is_nlogn.html
 
 6) String compression. Should I be using .append and .join? (string builder)
 
+7) review matrix. 
 
 
 
