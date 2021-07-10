@@ -28,7 +28,7 @@ PostgreSQL part 1, PEP 8, Data Structures, Algorithms, and Study for interviews,
   
   TREES AND GRAPHS: July 26th.  
   
-  SORTING AND SEARCHING: Augh 2nd.       
+  SORTING AND SEARCHING: Aug 2nd.       
   
   BIT MANIPULATION: Aug 9th.     
   
