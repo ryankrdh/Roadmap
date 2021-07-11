@@ -226,6 +226,7 @@ https://theartofmachinery.com/2019/01/05/sorting_is_nlogn.html
 
 7) review matrix. 
 
+8) IndexError when using own stack class for Queue2Stakcs
 
 
 
