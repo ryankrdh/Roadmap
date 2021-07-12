@@ -20,41 +20,41 @@ PostgreSQL part 1, PEP 8, Data Structures, Algorithms, and Study for interviews,
   
   REVIEW BASICS OF BIG O and ARRAYS: June 28th.
   
-  STACKS AND QUEUES: July 5th.  
+  STACKS AND QUEUES: July 5th ~ July 12th.  
   
-  LINKED LISTS: July 12th.  
+  LINKED LISTS: July 19th ~ July 26th.  
   
-  RECURSION AND DYNAMIC PROGRAMMING: July 19th.  
+  RECURSION AND DYNAMIC PROGRAMMING: Aug 2nd ~ Aug 9th.  
   
-  TREES AND GRAPHS: July 26th.  
+  TREES AND GRAPHS: Aug 16th ~ Aug 23rd.  
   
-  SORTING AND SEARCHING: Aug 2nd.       
+  SORTING AND SEARCHING: Aug 30th.       
   
-  BIT MANIPULATION: Aug 9th.     
+  BIT MANIPULATION: Sept 6th.     
   
-  OBJECT-ORIENTED DESIGN: Aug 16th.       
+  OBJECT-ORIENTED DESIGN: Sept 13th ~ Sept 20th.       
   
-  SYSTEM DESIGN AND SCALABILITY: Aug 23rd.      
+  SYSTEM DESIGN AND SCALABILITY: Sept 27th.      
   
-  DATABASES: Aug 30th.  
-  
-  REVIEW     
+  DATABASES: Oct 4th.  
+    
+    
   
 
-REST API+DJANGO Beginner, Advanced Python (Socket Programming) + PROJECTS ((Coding Interview Book + leetcode)): SEPT - OCT 2021. 
+REST API+DJANGO Beginner, Advanced Python (Socket Programming) + PROJECTS ((Coding Interview Book + leetcode)): OCT - NOV 2021. 
 
 ___
 
-###  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ------------------------- APPLY FOR INTERVIEWS ------------------------- NOVEMBER 2021.  
+###  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ------------------------- APPLY FOR INTERVIEWS ------------------------- DECEMBER 2021.  
 ___
 
-(While applying for jobs) REST API+DJANGO Advanced, PostgreSQL part 2, Python on the Backend (relational and non relational) ((Coding Interview Book + leetcode)): NOV 2021.   
+(While applying for jobs) REST API+DJANGO Advanced, PostgreSQL part 2, Python on the Backend (relational and non relational) ((Coding Interview Book + leetcode)): JAN 2021.   
 
 
-(While applying for jobs) Advanced Algorithms and Data Structures in Python, Grokking the System Designs Interview ((Coding Interview Book + leetcode)): DEC 2021 - JAN 2022.  
+(While applying for jobs) Advanced Algorithms and Data Structures in Python, Grokking the System Designs Interview ((Coding Interview Book + leetcode)): FEB 2021 - MAR 2022.  
 
 
-Fluent Python: FEB - MAR 2022.  
+Fluent Python: APR - MAY 2022.  
 
 
 THINGS TO CONSIDER LOOKING INTO IN THE FUTURE: Java, unit testing, NoSQL(MongoDB)(+Caching), Managing hosting, GUI (Tkinter), PGAdmin (SQL GUI), Practical training, python libraries, set up web server, more projects.  
@@ -102,7 +102,7 @@ Week of June 28th 2021: Data Structures, Algorithms, and Study for interviews ((
 **------------------------------------------- JULY 2021 -------------------------------------------**   
 Week of July 5th 2021: Data Structures, Algorithms, and Study for interviews ((Stacks Queues Deques, rotation matrix(reverse method and in-place method), zero matrix, string rotation, queue implementation, stack implementation, deque implementation, implement a stack interview, balanced parentheses check, Implement a Queue using 2 stacks, zero out matrix))
 
-Week of July 12th 2021: 
+Week of July 12th 2021: Data Structures, Algorithms, and Study for interviews ((Three in one,
 
 Week of July 19th 2021: 
 
