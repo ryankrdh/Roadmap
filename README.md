@@ -102,7 +102,7 @@ Week of June 28th 2021: Data Structures, Algorithms, and Study for interviews ((
 **------------------------------------------- JULY 2021 -------------------------------------------**   
 Week of July 5th 2021: Data Structures, Algorithms, and Study for interviews ((Stacks Queues Deques, rotation matrix(reverse method and in-place method), zero matrix, string rotation, queue implementation, stack implementation, deque implementation, implement a stack interview, balanced parentheses check, Implement a Queue using 2 stacks, zero out matrix))
 
-Week of July 12th 2021: Data Structures, Algorithms, and Study for interviews ((Three in one,
+Week of July 12th 2021: Data Structures, Algorithms, and Study for interviews ((Three in one, zero matrix bug fixed))
 
 Week of July 19th 2021: 
 
