@@ -224,7 +224,7 @@ https://theartofmachinery.com/2019/01/05/sorting_is_nlogn.html
 
 6) String compression. Should I be using .append and .join? (string builder)
 
-7) pg 98. #3.1 Three in One. Fixed Division.
+7) pg 98. #3.1 Three in One. Fixed Division or flexible division?
 
 
 
