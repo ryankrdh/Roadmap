@@ -104,7 +104,7 @@ Week of July 5th 2021: Data Structures, Algorithms, and Study for interviews ((S
 
 Week of July 12th 2021: Data Structures, Algorithms, and Study for interviews ((Three in one, zero matrix bug fixed, stack of plates, queue via stack, sort stack, animal shelter))
 
-Week of July 19th 2021: Data Structures, Algorithms, and Study for interviews ((Linked Lists(singly, doubly), Singly Linked List Cycle Check, Linked List Reversal)
+Week of July 19th 2021: Data Structures, Algorithms, and Study for interviews ((Linked Lists(singly, doubly), Singly Linked List Cycle Check, Linked List Reversal, linked list Nth to the last node)
 
 Week of July 26th 2021: 
 
