@@ -45,10 +45,10 @@ REST API+DJANGO Beginner, Advanced Python (Socket Programming) + PROJECTS ((Codi
 
 ___
 
-###  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ------------------------- APPLY FOR INTERVIEWS ------------------------- DECEMBER 2021.  
+###  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ----------------------- APPLY FOR INTERVIEWS ----------------------- DECEMBER 2021.  
 ___
 
-(While applying for jobs) REST API+DJANGO Advanced, PostgreSQL part 2, Python on the Backend (relational and non relational) ((Coding Interview Book + leetcode)): JAN 2021.   
+(While applying for jobs) REST API+DJANGO Advanced, PostgreSQL part 2, Python on the Backend (relational and non relational) ** PORTFOLIO ** ((Coding Interview Book + leetcode)): JAN 2021.   
 
 
 (While applying for jobs) Advanced Algorithms and Data Structures in Python, Grokking the System Designs Interview ((Coding Interview Book + leetcode)): FEB 2021 - MAR 2022.  
