@@ -87,7 +87,7 @@ Week of July 12th 2021: Data Structures, Algorithms, and Study for interviews ((
 
 Week of July 19th 2021: Data Structures, Algorithms, and Study for interviews ((Linked Lists(singly, doubly), Singly Linked List Cycle Check, Linked List Reversal, linked list Nth to the last node)
 
-Week of July 26th 2021: Data Structures, Algorithms, and Study for interviews ((Remove Dups, Return Kth to last)), review big O notations, review arrays/sets, unittest
+Week of July 26th 2021: Data Structures, Algorithms, and Study for interviews ((Remove Dups, Return Kth to last, recursion)), review big O notations, review arrays/sets, unittest
 
 **----------------------------------------- AUGUST 2021 -----------------------------------------**    
 Week of Aug 2nd 2021: 
