@@ -10,43 +10,45 @@ HTML, CSS, Javascript and Json fundamentals: NOV 2020 - MAR 2021.
 
 Python Bootcamp, Github: APRIL - MAY 2021.  
 
-PostgreSQL part 1, PEP 8, Data Structures, Algorithms, and Study for interviews, MIT Intro to Algorithm class, ((Coding Interview Book + leetcode)): JUNE - AUG 2021.  
+PostgreSQL part 1, PEP 8, Data Structures, Algorithms, and Study for interviews: JUNE - AUGUST
   
   Estimated time frame for each chapter of [Cracking The Coding Interview]: 
   
-  BIG O - TECHNICAL QUESTIONS: June 14th.
+  BIG O - TECHNICAL QUESTIONS: 
   
-  ARRAYS AND STRINGS: June 21st.  
+  ARRAYS AND STRINGS: 
   
-  REVIEW BASICS OF BIG O and ARRAYS: June 28th.
+  REVIEW BASICS OF BIG O and ARRAYS: 
   
-  STACKS AND QUEUES: July 5th ~ July 12th.  
+  STACKS AND QUEUES: 
   
-  LINKED LISTS: July 19th ~ July 26th.  
+  LINKED LISTS: 
   
-  RECURSION AND DYNAMIC PROGRAMMING: Aug 2nd ~ Aug 9th.  
+  RECURSION AND DYNAMIC PROGRAMMING:  
   
-  TREES AND GRAPHS: Aug 16th ~ Aug 23rd.  
+  TREES AND GRAPHS:  
   
-  SORTING AND SEARCHING: Aug 30th.       
+  SORTING AND SEARCHING:      
   
-  BIT MANIPULATION: Sept 6th.     
+  BIT MANIPULATION:      
   
-  OBJECT-ORIENTED DESIGN: Sept 13th ~ Sept 20th.       
+  OBJECT-ORIENTED DESIGN:        
   
-  SYSTEM DESIGN AND SCALABILITY: Sept 27th.      
+  SYSTEM DESIGN AND SCALABILITY:       
   
-  DATABASES: Oct 4th.  
+  DATABASES: 
     
-    
-  
+___
+___
+
+Springboard Bootcamp
+
+
+___
+___
 
 REST API+DJANGO Beginner, Advanced Python (Socket Programming) + PROJECTS ((Coding Interview Book + leetcode)): OCT - NOV 2021. 
 
-___
-
-###  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ----------------------- APPLY FOR INTERVIEWS ----------------------- DECEMBER 2021.  
-___
 
 (While applying for jobs) REST API+DJANGO Advanced, PostgreSQL part 2, Python on the Backend (relational and non relational) ** PORTFOLIO ** ((Coding Interview Book + leetcode)): JAN 2021.   
 
@@ -106,7 +108,7 @@ Week of July 12th 2021: Data Structures, Algorithms, and Study for interviews ((
 
 Week of July 19th 2021: Data Structures, Algorithms, and Study for interviews ((Linked Lists(singly, doubly), Singly Linked List Cycle Check, Linked List Reversal, linked list Nth to the last node)
 
-Week of July 26th 2021: Data Structures, Algorithms, and Study for interviews ((Remove Dups, Return Kth to last)), review big O notations, review arrays/sets,
+Week of July 26th 2021: Data Structures, Algorithms, and Study for interviews ((Remove Dups, Return Kth to last)), review big O notations, review arrays/sets, unittest
 
 **----------------------------------------- AUGUST 2021 -----------------------------------------**    
 Week of Aug 2nd 2021: 
