@@ -20,22 +20,23 @@ PostgreSQL part 1, PEP 8, Data Structures, Algorithms, and Study for interviews:
 ___
 ___
 
-Springboard Bootcamp or Coding Nomads or Software Guild
-
+Springboard Bootcamp AUG 2021 - MAY 2022
 
 ___
 ___
 
-REST API+DJANGO Beginner, Advanced Python (Socket Programming) + PROJECTS ((Coding Interview Book + leetcode)): OCT - NOV 2021. 
+Finish Data Structures, Algorithms, and Study for interviews: JUNE 2022
+
+REST API+DJANGO Beginner, Advanced Python (Socket Programming) + PROJECTS ((Coding Interview Book + leetcode)): FUTURE
 
 
-(While applying for jobs) REST API+DJANGO Advanced, PostgreSQL part 2, Python on the Backend (relational and non relational) ** PORTFOLIO ** ((Coding Interview Book + leetcode)): JAN 2021.   
+(While applying for jobs) REST API+DJANGO Advanced, PostgreSQL part 2, Python on the Backend (relational and non relational) ** PORTFOLIO ** ((Coding Interview Book + leetcode)): FUTURE
 
 
-(While applying for jobs) Advanced Algorithms and Data Structures in Python, Grokking the System Designs Interview ((Coding Interview Book + leetcode)): FEB 2021 - MAR 2022.  
+(While applying for jobs) Advanced Algorithms and Data Structures in Python, Grokking the System Designs Interview ((Coding Interview Book + leetcode)): FUTURE
 
 
-Fluent Python: APR - MAY 2022.  
+Fluent Python: FUTURE  
 
 
 THINGS TO CONSIDER LOOKING INTO IN THE FUTURE: Java, unit testing, NoSQL(MongoDB)(+Caching), Managing hosting, GUI (Tkinter), PGAdmin (SQL GUI), Practical training, python libraries, set up web server, more projects.  
@@ -90,7 +91,7 @@ Week of July 19th 2021: Data Structures, Algorithms, and Study for interviews ((
 Week of July 26th 2021: Data Structures, Algorithms, and Study for interviews ((Remove Dups, Return Kth to last, recursion)), review big O notations, review arrays/sets, unittest
 
 **----------------------------------------- AUGUST 2021 -----------------------------------------**    
-Week of Aug 2nd 2021: 
+Week of Aug 2nd 2021: ((C
 
 Week of Aug 9th 2021: 
 
