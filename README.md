@@ -20,7 +20,7 @@ PostgreSQL part 1, PEP 8, Data Structures, Algorithms, and Study for interviews:
 ___
 ___
 
-Springboard Bootcamp
+Springboard Bootcamp or Coding Nomads
 
 
 ___
