@@ -91,9 +91,9 @@ Week of July 19th 2021: Data Structures, Algorithms, and Study for interviews ((
 Week of July 26th 2021: Data Structures, Algorithms, and Study for interviews ((Remove Dups, Return Kth to last, recursion)), review big O notations, review arrays/sets, unittest
 
 **----------------------------------------- AUGUST 2021 -----------------------------------------**    
-Week of Aug 2nd 2021: ((Springboard Prep)) Html review, html practice, css review (fundamentals, selectors, specificity), css practice, create a mock website, connect with mentor
+Week of Aug 2nd 2021: ((Springboard Prep)) Html review, html practice, css review (fundamentals, selectors, specificity), css practice, create a mock website
 
-Week of Aug 9th 2021: 
+Week of Aug 9th 2021: ((Springboard Prep)) Connect with mentor,
 
 Week of Aug 16th 2021: 
 
