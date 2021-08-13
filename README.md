@@ -93,7 +93,7 @@ Week of July 26th 2021: Data Structures, Algorithms, and Study for interviews ((
 **----------------------------------------- AUGUST 2021 -----------------------------------------**    
 Week of Aug 2nd 2021: ((Springboard Prep)) Html review, html practice, css review (fundamentals, selectors, specificity), css practice, create a mock website
 
-Week of Aug 9th 2021: ((Springboard Prep)) Connect with mentor, css assignment(Css diner), box model, margin collapsing, box sizing, flex box model
+Week of Aug 9th 2021: ((Springboard Prep)) Connect with mentor, css assignment(Css diner), box model, margin collapsing, box sizing, flex box model, review selectors and specificity, 
 
 Week of Aug 16th 2021: 
 
