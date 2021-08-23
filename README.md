@@ -95,7 +95,7 @@ Week of Aug 2nd 2021: ((Springboard Prep)) Html review, html practice, css revie
 
 Week of Aug 9th 2021: ((Springboard Prep)) Connect with mentor, css assignment(Css diner), box model, margin collapsing, box sizing, flex box model, review selectors and specificity, final CSS assignment.
 
-Week of Aug 16th 2021: ((Springboard Prep)) JS fundamentals, JS primitive data, program logic and flow, arrays, objects, loops, 
+Week of Aug 16th 2021: ((Springboard Prep)) JS fundamentals, JS primitive data, program logic and flow, arrays, objects, loops, functions, 
 
 Week of Aug 23rd 2021:
 
