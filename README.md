@@ -97,7 +97,7 @@ Week of Aug 9th 2021: ((Springboard Prep)) Connect with mentor, css assignment(C
 
 Week of Aug 16th 2021: ((Springboard Prep)) JS fundamentals, JS primitive data, program logic and flow, arrays, objects, loops, functions, advanced functions
 
-Week of Aug 23rd 2021: ((Springboard Prep)) Practice question 1-33 finished.
+Week of Aug 23rd 2021: ((Springboard Prep)) Practice question 1-35 finished.
 
 Week of Aug 30th 2021: 
 
