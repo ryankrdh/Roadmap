@@ -20,7 +20,22 @@ PostgreSQL part 1, PEP 8, Data Structures, Algorithms, and Study for interviews:
 ___
 ___
 
+
 Springboard Bootcamp AUG 2021 - MAY 2022
+
+In Section I, you'll learn Front-end Development with JavaScript and HTML. We’ll cover topics like JavaScript Fundamentals and DOM Manipulation, Git and Other Developer Fundamentals, and Object-Oriented Programming.
+
+
+In Section II, you’ll learn Back-end Development with Python. This section has topics like Python Fundamentals and Data Structures, the Flask Framework, and Working With Databases. 
+
+
+In Section III, you’ll learn Back-end Development with Node.js. This section focuses on topics like Writing Asynchronous Code with Node.js, Routing and Middleware, and JSON APIs.
+
+
+In Section IV, you’ll learn Front-end Development with ReactJS and Redux. We’ll cover topics like state and other ReactJS Fundamentals, Writing Custom Hooks, and Asynchronous Redux. 
+
+
+In Section V, you’ll learn Data Structures and Algorithms. This section is more conceptual, and will focus on topics like BigO notation, recursion, and sorting algorithms.
 
 ___
 ___
@@ -88,18 +103,19 @@ Week of July 12th 2021: Data Structures, Algorithms, and Study for interviews ((
 
 Week of July 19th 2021: Data Structures, Algorithms, and Study for interviews ((Linked Lists(singly, doubly), Singly Linked List Cycle Check, Linked List Reversal, linked list Nth to the last node)
 
-Week of July 26th 2021: Data Structures, Algorithms, and Study for interviews ((Remove Dups, Return Kth to last, recursion)), review big O notations, review arrays/sets, unittest
+Week of July 26th 2021: Data Structures, Algorithms, and Study for interviews ((Remove Dups, Return Kth to last, recursion)), review big O notations, review                                arrays/sets, unittest
 
 **----------------------------------------- AUGUST 2021 -----------------------------------------**    
 Week of Aug 2nd 2021: ((Springboard Prep)) Html review, html practice, css review (fundamentals, selectors, specificity), css practice, create a mock website
 
-Week of Aug 9th 2021: ((Springboard Prep)) Connect with mentor, css assignment(Css diner), box model, margin collapsing, box sizing, flex box model, review selectors and specificity, final CSS assignment.
+Week of Aug 9th 2021: ((Springboard Prep)) Connect with mentor, css assignment(Css diner), box model, margin collapsing, box sizing, flex box model, review                                 selectors and specificity, final CSS assignment.
 
 Week of Aug 16th 2021: ((Springboard Prep)) JS fundamentals, JS primitive data, program logic and flow, arrays, objects, loops, functions, advanced functions
 
-Week of Aug 23rd 2021: ((Springboard Prep)) Practice question 1-35 finished, finished tech survey for career track. ((Springboard career track)) 
+Week of Aug 23rd 2021: ((Springboard Prep)) Practice question 1-35 finished, finished tech survey for career track. 
+                        ((Springboard Career Track Section I)) 
 
-Week of Aug 30th 2021: 
+Week of Aug 30th 2021: ((Springboard Career Track Section I))
 
 **---------------------------------------- SEPTEMBER 2021 ----------------------------------------**    
 Week of Sept 6th 2021: 
