@@ -103,17 +103,16 @@ Week of July 12th 2021: Data Structures, Algorithms, and Study for interviews ((
 
 Week of July 19th 2021: Data Structures, Algorithms, and Study for interviews ((Linked Lists(singly, doubly), Singly Linked List Cycle Check, Linked List Reversal, linked list Nth to the last node)
 
-Week of July 26th 2021: Data Structures, Algorithms, and Study for interviews ((Remove Dups, Return Kth to last, recursion)), review big O notations, review                                arrays/sets, unittest
+Week of July 26th 2021: Data Structures, Algorithms, and Study for interviews ((Remove Dups, Return Kth to last, recursion)), review big O notations, review arrays/sets, unittest
 
 **----------------------------------------- AUGUST 2021 -----------------------------------------**    
 Week of Aug 2nd 2021: ((Springboard Prep)) Html review, html practice, css review (fundamentals, selectors, specificity), css practice, create a mock website
 
-Week of Aug 9th 2021: ((Springboard Prep)) Connect with mentor, css assignment(Css diner), box model, margin collapsing, box sizing, flex box model, review                                 selectors and specificity, final CSS assignment.
+Week of Aug 9th 2021: ((Springboard Prep)) Connect with mentor, css assignment(Css diner), box model, margin collapsing, box sizing, flex box model, review        selectors and specificity, final CSS assignment.
 
 Week of Aug 16th 2021: ((Springboard Prep)) JS fundamentals, JS primitive data, program logic and flow, arrays, objects, loops, functions, advanced functions
 
-Week of Aug 23rd 2021: ((Springboard Prep)) Practice question 1-35 finished, finished tech survey for career track. 
-                        ((Springboard Career Track Section I)) 
+Week of Aug 23rd 2021: ((Springboard Prep)) Practice question 1-35 finished, finished tech survey for career track. ((Springboard Career Track Section I)) 
 
 Week of Aug 30th 2021: ((Springboard Career Track Section I))
 
