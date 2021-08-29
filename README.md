@@ -42,16 +42,13 @@ ___
 
 Finish Data Structures, Algorithms, and Study for interviews: JUNE 2022
 
-REST API+DJANGO Beginner, Advanced Python (Socket Programming) + PROJECTS ((Coding Interview Book + leetcode)): FUTURE
+REST API+DJANGO Beginner, Advanced Python (Socket Programming) + PROJECTS ((Coding Interview Book + leetcode)): JULY - AUG 2022
 
 
-(While applying for jobs) REST API+DJANGO Advanced, PostgreSQL part 2, Python on the Backend (relational and non relational) ** PORTFOLIO ** ((Coding Interview Book + leetcode)): FUTURE
+(While applying for jobs) REST API+DJANGO Advanced, PostgreSQL part 2, Python on the Backend (relational and non relational) ** PORTFOLIO ** ((Coding Interview Book + leetcode)): SEPT 2022
 
 
-(While applying for jobs) Advanced Algorithms and Data Structures in Python, Grokking the System Designs Interview ((Coding Interview Book + leetcode)): FUTURE
-
-
-Fluent Python: FUTURE  
+(While applying for jobs) Learn JAVA, Start algorithms and projects in JAVA, Grokking the System Designs Interview ((Coding Interview Book + leetcode)): OCT - NOV 2022
 
 
 THINGS TO CONSIDER LOOKING INTO IN THE FUTURE: Java, unit testing, NoSQL(MongoDB)(+Caching), Managing hosting, GUI (Tkinter), PGAdmin (SQL GUI), Practical training, python libraries, set up web server, more projects.  
@@ -224,10 +221,54 @@ Week of July 18th 2022:
 Week of July 25th 2022:
 
 **---------------------------------------- August 2022 ----------------------------------------**  
+Week of Aug 1st 2022:
+
+Week of Aug 8th 2022:
+
+Week of Aug 15th 2022:
+
+Week of Aug 22nd 2022:
+
+Week of Aug 29th 2022:
+
+**---------------------------------------- SEPTEMBER 2022 ----------------------------------------**  
+Week of Sept 5th 2022:
+
+Week of Sept 12th 2022:
+
+Week of Sept 19th 2022:
+
+Week of Sept 26th 2022:
 
 **--------------------------------------- October 2022 ---------------------------------------**  
+Week of Sept 3rd 2022:
+
+Week of Sept 10th 2022:
+
+Week of Sept 17th 2022:
+
+Week of Sept 24th 2022:
+
+Week of Sept 31st 2022:
 
 **--------------------------------------- November 2022 ---------------------------------------**  
+Week of Nov 7th 2022:
+
+Week of Nov 14th 2022:
+
+Week of Nov 21st 2022:
+
+Week of Nov 28th 2022:
+
+**--------------------------------------- December 2022 ---------------------------------------**  
+Week of Dec 5th 2022:
+
+Week of Dec 12th 2022:
+
+Week of Dec 19th 2022:
+
+Week of Dec 26th 2022:
+
 _____________________________________________________________________________________________________
 BASIC QUALIFICATIONS:
 
@@ -244,6 +285,8 @@ BASIC QUALIFICATIONS:
 
 
 ______________________________________________________________________________________________________
+
+
 
 QUESTIONS:  
 
