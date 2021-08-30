@@ -304,9 +304,16 @@ https://theartofmachinery.com/2019/01/05/sorting_is_nlogn.html
 
 7) pg 98. #3.1 Three in One. Fixed Division or flexible division?
 
-8) Improve unit testing.
+8) def sum_func(n):
 
-9) Prototype.
+    # base case
+    if len(n) == 1:
+        return n
+
+    else:
+        return n % 10 + sum_func(n//10) # make sure this is doing classic division
+
+sum_func(4321)
 
 
 
