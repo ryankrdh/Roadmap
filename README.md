@@ -112,7 +112,7 @@ Week of Aug 16th 2021: ((Springboard Prep)) JS fundamentals, JS primitive data, 
 Week of Aug 23rd 2021: ((Springboard Prep)) Practice question 1-35 finished, finished tech survey for career track. ((Springboard Career Track Section I)) Getting started, scheduled career coach, career strategy plan, software engineer introduction.
 ((Udemy)) data structures and algorithms: recursion
 
-Week of Aug 30th 2021: ((Springboard Career Track Section I)) meeting with career coach, job search research, web fundamentals(web review, javascript debugging, javascript timers), ((Udemy)) data structures and algorithms: recursion
+Week of Aug 30th 2021: ((Springboard Career Track Section I)) meeting with career coach, job search research, web fundamentals(web review, javascript debugging, javascript timers, javascript assignment), ((Udemy)) data structures and algorithms: recursion
 
 **---------------------------------------- SEPTEMBER 2021 ----------------------------------------**    
 Week of Sept 6th 2021: 
