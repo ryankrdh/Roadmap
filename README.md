@@ -115,9 +115,9 @@ Week of Aug 23rd 2021: ((Springboard Prep)) Practice question 1-35 finished, fin
 Week of Aug 30th 2021: ((Springboard Career Track Section I)) meeting with career coach, job search research, web fundamentals(web review, javascript debugging, javascript timers, javascript assignment), ((Udemy)) data structures and algorithms: recursion
 
 **---------------------------------------- SEPTEMBER 2021 ----------------------------------------**    
-Week of Sept 6th 2021: ((Springboard Career Track Section I)) javascript assignment, OOP zoom lesson, Introduction to DOM, manipulating the DOM, javascript events,
+Week of Sept 6th 2021: ((Springboard Career Track Section I)) javascript assignment, OOP zoom lesson, Introduction to DOM, manipulating the DOM, javascript events
 
-Week of Sept 13th 2021: 
+Week of Sept 13th 2021: ((Springboard Career Track Section I)) javascript events,
 
 Week of Sept 20th 2021: 
 
