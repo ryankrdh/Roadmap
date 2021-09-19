@@ -117,7 +117,7 @@ Week of Aug 30th 2021: ((Springboard Career Track Section I)) meeting with caree
 **---------------------------------------- SEPTEMBER 2021 ----------------------------------------**    
 Week of Sept 6th 2021: ((Springboard Career Track Section I)) javascript assignment, OOP zoom lesson, Introduction to DOM, manipulating the DOM, javascript events
 
-Week of Sept 13th 2021: ((Springboard Career Track Section I)) javascript events, local storage, JS Todo assignment
+Week of Sept 13th 2021: ((Springboard Career Track Section I)) javascript events, local storage, JS Todo assignment, memory game assignment, 
 
 Week of Sept 20th 2021: 
 
