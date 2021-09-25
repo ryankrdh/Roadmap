@@ -119,7 +119,7 @@ Week of Sept 6th 2021: ((Springboard Career Track Section I)) javascript assignm
 
 Week of Sept 13th 2021: ((Springboard Career Track Section I)) javascript events, local storage, JS Todo assignment, memory game assignment, meme generator assessment, The command line, git fundamentals
 
-Week of Sept 20th 2021: ((Springboard Career Track Section I)) git branching and merging, unit testing (Jasmine), 
+Week of Sept 20th 2021: ((Springboard Career Track Section I)) git branching and merging, unit testing (Jasmine), unit testing exercise
 
 Week of Sept 27th 2021: 
 
