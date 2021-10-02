@@ -121,7 +121,7 @@ Week of Sept 13th 2021: ((Springboard Career Track Section I)) javascript events
 
 Week of Sept 20th 2021: ((Springboard Career Track Section I)) git branching and merging, unit testing (Jasmine), unit testing exercise, advanced array methods
 
-Week of Sept 27th 2021: ((Springboard Career Track Section I)) JS array methods - MAP,
+Week of Sept 27th 2021: ((Springboard Career Track Section I)) JS array methods - MAP, some/every
 
 **----------------------------------------- OCTOBER 2021 -----------------------------------------**    
 Week of Oct 4th 2021: 
