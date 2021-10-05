@@ -124,7 +124,7 @@ Week of Sept 20th 2021: ((Springboard Career Track Section I)) git branching and
 Week of Sept 27th 2021: ((Springboard Career Track Section I)) JS array methods - MAP, some/every
 
 **----------------------------------------- OCTOBER 2021 -----------------------------------------**    
-Week of Oct 4th 2021: ((Springboard Career Track Section I)) some/every exercise,
+Week of Oct 4th 2021: ((Springboard Career Track Section I)) some/every exercise, find/findIndex, find/findIndex Exercises, 
 
 Week of Oct 11th 2021: 
 
