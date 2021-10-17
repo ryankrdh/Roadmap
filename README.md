@@ -126,7 +126,7 @@ Week of Sept 27th 2021: ((Springboard Career Track Section I)) JS array methods 
 **----------------------------------------- OCTOBER 2021 -----------------------------------------**    
 Week of Oct 4th 2021: ((Springboard Career Track Section I)) some/every exercise, find/findIndex, find/findIndex Exercises, reduce, reduce exercises, elevator pitch, ES2015, arrow functions
 
-Week of Oct 11th 2021: ((Springboard Career Track Section I)) rest/spread, object enhancement, review advanced arrays
+Week of Oct 11th 2021: ((Springboard Career Track Section I)) rest/spread, object enhancement, review advanced arrays, rest/spread exercise
 
 Week of Oct 18th 2021: 
 
