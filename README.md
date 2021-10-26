@@ -128,9 +128,9 @@ Week of Oct 4th 2021: ((Springboard Career Track Section I)) some/every exercise
 
 Week of Oct 11th 2021: ((Springboard Career Track Section I)) rest/spread, object enhancement, review advanced arrays, rest/spread exercise, object destructuring, destructuring exercise
 
-Week of Oct 18th 2021:  ((Springboard Career Track Section I)) object enhancement, object enhancement exercise, map and set
+Week of Oct 18th 2021: ((Springboard Career Track Section I)) object enhancement, object enhancement exercise, map and set
 
-Week of Oct 25th 2021: 
+Week of Oct 25th 2021: ((Springboard Career Track Section I)) object enhancement
 
 
 **---------------------------------------- NOVEMBER 2021 ----------------------------------------**    
