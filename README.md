@@ -130,7 +130,7 @@ Week of Oct 11th 2021: ((Springboard Career Track Section I)) rest/spread, objec
 
 Week of Oct 18th 2021: ((Springboard Career Track Section I)) object enhancement, object enhancement exercise, map and set
 
-Week of Oct 25th 2021: ((Springboard Career Track Section I)) object enhancement
+Week of Oct 25th 2021: ((Springboard Career Track Section I)) object enhancement, javascript object orientation
 
 
 **---------------------------------------- NOVEMBER 2021 ----------------------------------------**    
