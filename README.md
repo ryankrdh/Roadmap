@@ -134,7 +134,7 @@ Week of Oct 25th 2021: ((Springboard Career Track Section I)) object enhancement
 
 
 **---------------------------------------- NOVEMBER 2021 ----------------------------------------**    
-Week of Nov 1st 2021: 
+Week of Nov 1st 2021: ((Springboard Career Track Section I)) connect four game, 
 
 Week of Nov 8th 2021: 
 
