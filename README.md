@@ -138,7 +138,7 @@ Week of Nov 1st 2021: ((Springboard Career Track Section I)) connect four game, 
 
 Week of Nov 8th 2021: ((Springboard Career Track Section I)) prepare for mentor call, OOP, revoew connect 4, advanced array review
 
-Week of Nov 15th 2021: ((Springboard Career Track Section I)) ES2015, this, connect4OOP exercise, jquery, elevator pitch meeting, jQuery exercise
+Week of Nov 15th 2021: ((Springboard Career Track Section I)) ES2015, this, connect4OOP exercise, jquery, elevator pitch meeting, jQuery exercise, how the web works, APIs, AJAX
 
 Week of Nov 22th 2021:
 
