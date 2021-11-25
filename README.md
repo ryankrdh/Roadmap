@@ -140,7 +140,7 @@ Week of Nov 8th 2021: ((Springboard Career Track Section I)) prepare for mentor 
 
 Week of Nov 15th 2021: ((Springboard Career Track Section I)) ES2015, this, connect4OOP exercise, jquery, elevator pitch meeting, jQuery exercise, how the web works, APIs, AJAX
 
-Week of Nov 22th 2021: ((Springboard Career Track Section I) AJAX, Jeopardy, APIs
+Week of Nov 22th 2021: ((Springboard Career Track Section I) AJAX, Jeopardy, APIs, ajax exercise
 
 Week of Nov 29th 2021:
 
