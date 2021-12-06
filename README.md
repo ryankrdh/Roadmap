@@ -142,7 +142,7 @@ Week of Nov 15th 2021: ((Springboard Career Track Section I)) ES2015, this, conn
 
 Week of Nov 22th 2021: ((Springboard Career Track Section I)) AJAX, APIs, ajax exercise, API exercise
 
-Week of Nov 29th 2021: ((Springboard Career Track Section I)) Jeopardy, cumulative project
+Week of Nov 29th 2021: ((Springboard Career Track Section I)) Jeopardy, cumulative project, review static method
 
 **---------------------------------------- DECEMBER 2021 ----------------------------------------**    
 Week of Dec 6th 2021: 
