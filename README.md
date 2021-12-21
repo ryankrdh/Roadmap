@@ -147,9 +147,9 @@ Week of Nov 29th 2021: ((Springboard Career Track Section I)) Jeopardy, cumulati
 **---------------------------------------- DECEMBER 2021 ----------------------------------------**    
 Week of Dec 6th 2021: ((Springboard Career Track Section II)) Effective Networking, Python fundamentals, python data structures
 
-Week of Dec 13th 2021: ((Springboard Career Track Section II)) Python data structures, 
+Week of Dec 13th 2021: ((Springboard Career Track Section II)) Python data structures
 
-Week of Dec 20th 2021: 
+Week of Dec 20th 2021: ((Springboard Career Track Section II)) Python data structures, 
 
 Week of Dec 27th 2021: 
 
