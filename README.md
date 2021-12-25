@@ -149,7 +149,7 @@ Week of Dec 6th 2021: ((Springboard Career Track Section II)) Effective Networki
 
 Week of Dec 13th 2021: ((Springboard Career Track Section II)) Python data structures
 
-Week of Dec 20th 2021: ((Springboard Career Track Section II)) Python data structures, 
+Week of Dec 20th 2021: ((Springboard Career Track Section II)) Python data structures, review
 
 Week of Dec 27th 2021: 
 
