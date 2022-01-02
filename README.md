@@ -151,10 +151,10 @@ Week of Dec 13th 2021: ((Springboard Career Track Section II)) Python data struc
 
 Week of Dec 20th 2021: ((Springboard Career Track Section II)) Python data structures, review
 
-Week of Dec 27th 2021: ((Springboard Career Track Section II)) Python Tools, review
+Week of Dec 27th 2021: ((Springboard Career Track Section II)) Python Tools, python OO exercise, review
 
 **---------------------------------------- JANUARY 2022 ----------------------------------------**  
-Week of Jan 3rd 2022:
+Week of Jan 3rd 2022: ((Springboard Career Track Section II)) Flask Fundamentals, 
 
 Week of Jan 10th 2022:
 
