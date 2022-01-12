@@ -156,7 +156,7 @@ Week of Dec 27th 2021: ((Springboard Career Track Section II)) Python Tools, pyt
 **---------------------------------------- JANUARY 2022 ----------------------------------------**  
 Week of Jan 3rd 2022: ((Springboard Career Track Section II)) Flask Fundamentals, review python
 
-Week of Jan 10th 2022:
+Week of Jan 10th 2022: ((Springboard Career Track Section II)) Flask Fundamentals, flask jinja
 
 Week of Jan 17th 2022:
 
