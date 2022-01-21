@@ -158,7 +158,7 @@ Week of Jan 3rd 2022: ((Springboard Career Track Section II)) Flask Fundamentals
 
 Week of Jan 10th 2022: ((Springboard Career Track Section II)) Flask Fundamentals, flask jinja
 
-Week of Jan 17th 2022:
+Week of Jan 17th 2022: ((Springboard Career Track Section II)) flask tools
 
 Week of Jan 24th 2022:
 
