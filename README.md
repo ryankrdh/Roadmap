@@ -21,7 +21,7 @@ ___
 ___
 
 
-Springboard Bootcamp AUG 2021 - MAY 2022
+Springboard Bootcamp SEPT 2021 - JULY 2022
 
 In Section I, you'll learn Front-end Development with JavaScript and HTML. We’ll cover topics like JavaScript Fundamentals and DOM Manipulation, Git and Other Developer Fundamentals, and Object-Oriented Programming.
 
@@ -40,15 +40,15 @@ In Section V, you’ll learn Data Structures and Algorithms. This section is mor
 ___
 ___
 
-Finish Data Structures, Algorithms, and Study for interviews: JUNE 2022
+Finish Data Structures, Algorithms, and Study for interviews: AUG 2022
 
-REST API+DJANGO Beginner, Advanced Python (Socket Programming) + PROJECTS ((Coding Interview Book + leetcode)): JULY - AUG 2022
-
-
-(While applying for jobs) REST API+DJANGO Advanced, PostgreSQL part 2, Python on the Backend (relational and non relational) ** PORTFOLIO ** ((Coding Interview Book + leetcode)): SEPT 2022
+REST API+DJANGO Beginner, Advanced Python (Socket Programming) + PROJECTS ((Coding Interview Book + leetcode)): SEPT 2022
 
 
-(While applying for jobs) Learn JAVA, Start algorithms and projects in JAVA, Grokking the System Designs Interview ((Coding Interview Book + leetcode)): OCT - NOV 2022
+(While applying for jobs) REST API+DJANGO Advanced, PostgreSQL part 2, Python on the Backend (relational and non relational) ** PORTFOLIO ** ((Coding Interview Book + leetcode)): FUTURE
+
+
+(While applying for jobs) Learn JAVA, Start algorithms and projects in JAVA, Grokking the System Designs Interview ((Coding Interview Book + leetcode)): FUTURE
 
 
 THINGS TO CONSIDER LOOKING INTO IN THE FUTURE: Java, unit testing, NoSQL(MongoDB)(+Caching), Managing hosting, GUI (Tkinter), PGAdmin (SQL GUI), Practical training, python libraries, set up web server, more projects.  
@@ -160,7 +160,7 @@ Week of Jan 10th 2022: ((Springboard Career Track Section II)) Flask Fundamental
 
 Week of Jan 17th 2022: ((Springboard Career Track Section II)) flask tools, flask session
 
-Week of Jan 24th 2022:
+Week of Jan 24th 2022: ((Springboard Career Track Section II)) flask session
 
 Week of Jan 31st 2022:
 
