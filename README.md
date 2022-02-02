@@ -162,7 +162,7 @@ Week of Jan 17th 2022: ((Springboard Career Track Section II)) flask tools, flas
 
 Week of Jan 24th 2022: ((Springboard Career Track Section II)) flask session, flask session assignment
 
-Week of Jan 31st 2022 ((Springboard Career Track Section II)) flask unit testing, review
+Week of Jan 31st 2022 ((Springboard Career Track Section II)) flask unit testing, review, 
 
 **---------------------------------------- February 2022 ----------------------------------------**  
 Week of Feb 7th 2022:
