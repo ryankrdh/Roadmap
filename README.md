@@ -169,9 +169,9 @@ Week of Feb 7th 2022: ((Springboard Career Track Section II)) js review. Intervi
 
 Week of Feb 14th 2022: ((Springboard Career Track Section II)) flask unit testing.
 
-Week of Feb 21st 2022:
+Week of Feb 21st 2022: ((Springboard Career Track Section II)) flask boggle, assessment forex python, SQL
 
-Week of Feb 28th 2022: 
+Week of Feb 28th 2022: ((Springboard Career Track Section II)) SQL
 
 **---------------------------------------- March 2022 ----------------------------------------**  
 Week of Mar 7th 2022:
