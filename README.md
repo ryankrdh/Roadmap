@@ -174,7 +174,7 @@ Week of Feb 21st 2022: ((Springboard Career Track Section II)) flask boggle, ass
 Week of Feb 28th 2022: ((Springboard Career Track Section II)) SQL, SQL Querying exercis, 
 
 **---------------------------------------- March 2022 ----------------------------------------**  
-Week of Mar 7th 2022:
+Week of Mar 7th 2022: ((Springboard Career Track Section II)) finish forex convertor unittests, SQL
 
 Week of Mar 14th 2022:
 
