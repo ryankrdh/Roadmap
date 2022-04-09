@@ -183,7 +183,7 @@ Week of Mar 21st 2022: ((Springboard Career Track Section II)) sql ddl
 Week of Mar 28th 2022: ((Springboard Career Track Section II)) review
 
 **---------------------------------------- April 2022 ----------------------------------------**  
-Week of Apr 4th 2022:
+Week of Apr 4th 2022: ((Springboard Career Track Section II)) sql alchemy part 1
 
 Week of Apr 11th 2022:
 
