@@ -185,71 +185,17 @@ Week of Mar 28th 2022: ((Springboard Career Track Section II)) review
 **---------------------------------------- April 2022 ----------------------------------------**  
 Week of Apr 4th 2022: ((Springboard Career Track Section II)) sql alchemy part 1
 
-Week of Apr 11th 2022:
-
-Week of Apr 18th 2022:
-
-Week of Apr 25th 2022:
-
-**----------------------------------------- May 2022 -----------------------------------------**  
-Week of May 2nd 2022:
-
-Week of May 9th 2022:
-
-Week of May 16th 2022:
-
-Week of May 23rd 2022:
-
-Week of May 30th 2022:
-
-**----------------------------------------- June 2022 -----------------------------------------**  
-Week of June 6th 2022:
-
-Week of June 13th 2022:
-
-Week of June 20th 2022:
-
-Week of June 27th 2022:
-
-**----------------------------------------- July 2022 -----------------------------------------**  
-Week of July 4th 2022:
-
-Week of July 11th 2022:
-
-Week of July 18th 2022:
-
-Week of July 25th 2022:
-
-**---------------------------------------- August 2022 ----------------------------------------**  
-Week of Aug 1st 2022:
-
-Week of Aug 8th 2022:
-
-Week of Aug 15th 2022:
-
-Week of Aug 22nd 2022:
-
-Week of Aug 29th 2022:
-
-**---------------------------------------- SEPTEMBER 2022 ----------------------------------------**  
-Week of Sept 5th 2022:
-
-Week of Sept 12th 2022:
-
-Week of Sept 19th 2022:
-
-Week of Sept 26th 2022:
 
 **--------------------------------------- October 2022 ---------------------------------------**  
-Week of Sept 3rd 2022:
+Week of Oct 3rd 2022: Review and get back on track
 
-Week of Sept 10th 2022:
+Week of Oct 10th 2022:
 
-Week of Sept 17th 2022:
+Week of Oct 17th 2022:
 
-Week of Sept 24th 2022:
+Week of Oct 24th 2022:
 
-Week of Sept 31st 2022:
+Week of Oct 31st 2022:
 
 **--------------------------------------- November 2022 ---------------------------------------**  
 Week of Nov 7th 2022:
