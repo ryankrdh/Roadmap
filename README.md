@@ -189,7 +189,7 @@ Week of Apr 4th 2022: ((Springboard Career Track Section II)) sql alchemy part 1
 **--------------------------------------- October 2022 ---------------------------------------**  
 Week of Oct 3rd 2022: Review and get back on track
 
-Week of Oct 10th 2022:
+Week of Oct 10th 2022: Course on JAVA, 
 
 Week of Oct 17th 2022:
 
