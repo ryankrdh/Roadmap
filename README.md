@@ -193,7 +193,7 @@ Week of Oct 10th 2022: Course on JAVA, arrays leet code.
 
 Week of Oct 17th 2022: arrays leet code.
 
-Week of Oct 24th 2022:
+Week of Oct 24th 2022: arrays leet code.
 
 Week of Oct 31st 2022:
 
