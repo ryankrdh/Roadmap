@@ -195,7 +195,7 @@ Week of Oct 17th 2022: arrays leet code.
 
 Week of Oct 24th 2022: arrays leet code.
 
-Week of Oct 31st 2022:
+Week of Oct 31st 2022: arrays/linked list leet code.
 
 **--------------------------------------- November 2022 ---------------------------------------**  
 Week of Nov 7th 2022:
